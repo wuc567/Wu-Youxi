@@ -1,4 +1,4 @@
-## Welcome to My GitHub Pages
+## Welcome to Youxi Wu's GitHub Pages
 
 <!-- You can use the [editor on GitHub](https://github.com/wuc567/hello-world/edit/master/index.md) to maintain and preview the content for your website in Markdown files. -->
 
@@ -6,7 +6,7 @@
 
 ### 个人简介
 
-**武优西：男，1974年6月生于黑龙江省齐齐哈尔市，博士，教授，博士生导师。**中国计算机学会高级会员；中国自动化学会会员；IEEE会员；美国佛蒙特大学和莱特州立大学访问学者（2009.8-2010.8, UVM; 2015.10-2016.10, WSU）。
+**武优西：男，河北工业大学，博士，教授，博士生导师。**中国计算机学会高级会员；中国自动化学会会员；IEEE会员；美国佛蒙特大学和莱特州立大学访问学者（2009.8-2010.8, UVM; 2015.10-2016.10, WSU）。
 
 联系方式： wuc567 at 163 dot com
 
