@@ -29,6 +29,12 @@
 TPC of ITA2018: Technical Program Committee of International Conference on Information Technology and Applications （2018）
 2018年中国计算机应用大会特邀报告
 
+#### 论文
+
+2018 年
+
+[1]Youxi Wu, Yao Tong, Xingquan Zhu, Xindong Wu. NOSEP: Nonoverlapping Sequence Pattern Mining with Gap Constraints. IEEE Transactions on Cybernetics.  2018, 48(10): 2809-2822. 
+
 ```markdown
 Syntax highlighted code block
 
