@@ -112,3 +112,16 @@
 [4] Lei Guo, Lei Zhao, Youxi Wu, Ying Li, Guizhi Xu, Qingxin Yan. Tumor detection in MR images using one-class immune feature weighted SVMs. IEEE Transactions on Magnetics. 2011, 47(10): 3849-3852. SCI&EI:
 
 [5] Wei Ding, Tomasz F Stepinski, Yang Mu, Lourenço P C Bandeira, Ricardo Vilalta, Youxi Wu, Zhenyu Lu, Tianyu Cao, Xindong Wu. Subkilometer crater discovery with boosting and transfer learning. ACM Transactions on Intelligent Systems and Technology. 2011, 2(4): 39~64. SCI&EI
+
+#### 2010年
+[1] Youxi Wu, Xindong Wu, He Jiang, Fan Min. A nettree for approximate maximal pattern matching with gaps and one-off constraint. Proceedings of the 22th International Conference on Tools with Artificial Intelligence (ICTAI 2010), 2010 : 38-41. EI: 20110413611565
+
+[2] Youxi Wu, Xindong Wu, Fan Min, Yan Li. A Nettree for pattern matching with flexible wildcard constraints. 2010 IEEE International Conference on Information Reuse and Integration (IRI2010), 2010: 109 – 114. EI: 20104213312186
+
+[3] Fan Min, Youxi Wu, Xindong Wu. The Apriori Property of Sequence Pattern Mining with Wildcard Gaps. IEEE International Conference on Bioinformatics & Biomedicine (IEEE BIBM 2010). 2010: 138-143.EI: 20110913708827
+
+[4] Wei Ding, Tomasz F Stepinski, Lourenço P C Bandeira, Ricardo Vilalta, Youxi Wu, Zhenyu Lu, Tianyu Cao. Automatic detection of craters in planetary images: an embedded framework using feature selection and boosting. Conference on Information and Knowledge Management (ICKM 2010), 2010: 749-758.
+
+[5] Lei Guo, Youxi Wu, Ting Cao, Weili Yan, Xueqin Shen. Classification of mental task from EEG signals using immune feature weighted support vector machine. Digests of the 2010 14th Biennial IEEE Conference on Electromagnetic Field Computation, CEFC 2010. 2010. EI:20103013091725
+
+[6] 武优西，郭磊，柴欣，王岩. 基于优化算法的核函数参数选择的研究. 计算机应用与软件，2010,1:137-140.
