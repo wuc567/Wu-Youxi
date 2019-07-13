@@ -33,7 +33,23 @@
 
 2018 年
 
-[1]Youxi Wu, Yao Tong, Xingquan Zhu, Xindong Wu. NOSEP: Nonoverlapping Sequence Pattern Mining with Gap Constraints. IEEE Transactions on Cybernetics.  2018, 48(10): 2809-2822. 
+[1]Youxi Wu, Yao Tong, Xingquan Zhu, Xindong Wu. NOSEP: Nonoverlapping Sequence Pattern Mining with Gap Constraints. IEEE Transactions on Cybernetics.  2018, 48(10): 2809-2822.
+
+[2] Youxi Wu, Shasha Li, Jingyu Liu, Lei Guo, Xindong Wu. NETASPNO: Approximate strict pattern matching under nonoverlapping condition. IEEE Access. 2018, 6(1): 24350-24361.
+
+[3] Yan Li, Hongyan Zhang, Huaizhong Zhu, Jianwei Li, Wenjie Yan, Youxi Wu*. IBAS: Index based A-star. IEEE Access. 2018, 6(1): 11707-11715.
+
+[4]Youxi Wu, Yuehua Wang, Jingyu Liu, Ming Yu, Jing Liu, Yan Li. Mining distinguishing subsequence patterns with nonoverlapping condition. Cluster Computing. https://doi.org/10.1007/s10586-017-1671-0 . Accepted
+
+[5]Xin Chai, Dan Yang, Jingyu Liu, Yan Li, Youxi Wu. Top-k sequence pattern mining with non-overlapping condition. Filomat. 2018, 32(5): 1703-1710.
+
+[6]Wenjie Yan, Mengjing Cao, Youxi Wu*, Jun Zhang. Greedy Game Algorithms for Solving SET K-Cover Problem in HWSNs. IEEE Access, 2018, 6: 65604-65619.
+
+[7]Youxi Wu, Shengyuan Shi, Jingyu Liu*, Huaizhong Zhu. ADL-RAID: Energy-saving data layout for dynamic loads. Computer Systems Science & Engineering. 2018, 33(5): 309-316.
+
+[8]宋亚青，武优西*，刘靖宇，李艳. 基于双向双区间标签实现k步可达性查询. 计算机科学. 2018,45(3):178-181
+
+[9]魏芹双，武优西*，刘靖宇，朱怀忠. 基于密度约束和间隙约束的对比模式挖掘. 计算机科学. 2018,45(4):253-257
 
 ```markdown
 Syntax highlighted code block
