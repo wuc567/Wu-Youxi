@@ -23,11 +23,11 @@
 #### 学术活动：
 
 * 国外期刊审稿人：Knowledge and Information Systems(KAIS)、IEEE Transactions on Emerging Topics in Computational Intelligence、Knowledge-Based Systems(KBS)、Journal of Information Science(JIS)、IEEE Access、Multimedia Tools and Applications (MTAP)、Advances in Artificial Neural Systems；
-国内期刊审稿人：计算机学报、自动化学报、通信学报、电子与信息学报、天津大学学报、系统工程理论与实践、计算机科学、计算机工程与科学等
-国际会议审稿人：Electromagnetic Field Computation (IEEE CEFC)、a Program Committee member of International Conference on Data Mining（ICDM）PhD forum 2015、International Joint Conference on Neural Networks （IJCNN）2016、ICNC-FSKD2018
-《计算机科学》期刊2017年度“优秀审稿专家”（获评率<10%）
-TPC of ITA2018: Technical Program Committee of International Conference on Information Technology and Applications （2018）
-2018年中国计算机应用大会特邀报告
+* 国内期刊审稿人：计算机学报、自动化学报、通信学报、电子与信息学报、天津大学学报、系统工程理论与实践、计算机科学、计算机工程与科学等
+* 国际会议审稿人：Electromagnetic Field Computation (IEEE CEFC)、a Program Committee member of International Conference on Data Mining（ICDM）PhD forum 2015、International Joint Conference on Neural Networks （IJCNN）2016、ICNC-FSKD2018
+* 《计算机科学》期刊2017年度“优秀审稿专家”（获评率<10%）
+* TPC of ITA2018: Technical Program Committee of International Conference on Information Technology and Applications （2018）
+* 2018年中国计算机应用大会特邀报告
 
 ### 论文
 
