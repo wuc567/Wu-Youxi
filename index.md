@@ -31,7 +31,7 @@
 
 ### 论文
 
-###### 2018 年
+#### 2018 年
 
 [1] Youxi Wu, Yao Tong, Xingquan Zhu, Xindong Wu. NOSEP: Nonoverlapping Sequence Pattern Mining with Gap Constraints. IEEE Transactions on Cybernetics.  2018, 48(10): 2809-2822.
 
@@ -51,30 +51,64 @@
 
 [9] 魏芹双，武优西*，刘靖宇，朱怀忠. 基于密度约束和间隙约束的对比模式挖掘. 计算机科学. 2018,45(4):253-257
 
-```markdown
-Syntax highlighted code block
+#### 2017 年
 
-# Header 1
-## Header 2
-### Header 3
+[1] Youxi Wu, Cong Shen, He Jiang, Xindong Wu. Strict pattern matching under non-overlapping condition. Science China Information Sciences. 2017, 60 (1):012101:1-16.   Read Online (PDF ) (Source codes)
 
-- Bulleted
-- List
+[2] 武优西，周坤，刘靖宇，江贺，吴信东. 周期性一般间隙约束的序列模式挖掘.  计算机学报. 2017, 40(6): 1338-1352. (PDF) (Source codes)
 
-1. Numbered
-2. List
+[3] Youxi Wu, Dong Liu, He Jiang.  Length-changeable incremental extreme learning machine. Journal of Computer Science and Technology.  2017, 32(3): 630–643. [中英文摘要] (PDF)  (source codes)
 
-**Bold** and _Italic_ and `Code` text
+#### 2016 年
 
-[Link](url) and ![Image](src)
-```
+[1] Dong Liu, Youxi Wu*, He Jiang. FP-ELM: An online sequential learning algorithm for dealing with concept drift. Neurocomputing.  2016, 207(26): 322–334  (PDF)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[2] Youxi Wu, Zhiqiang Tang, He Jiang, Xindong Wu. Approximate pattern matching with gap constraints. Journal of Information Science.2016, 42(5): 639–658  (PDF)  (Source codes)
 
-### Jekyll Themes
+[3] Yongfeng Dong, Jingyu Liu, Jie Yan, Hongpu Liu, and Youxi Wu. HS-RAID2: Optimizing Small Write Performance in HS-RAID, Journal of Electrical and Computer Engineering, vol. 2016, Article ID 7341735, 8 pages, 2016. doi:10.1155/2016/7341735.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wuc567/hello-world/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[4] Xindong Wu, Fei Xie, Jipeng Qiang, Youxi Wu, Dan Guo, Yingling Liu, Qingren Wang, Jun Gao, Xuegang Hu. Pattern Matching with Wildcards and Length Constraints (带有通配符和长度约束的模式匹配). Science press (科学出版社(英文著作))
 
-### Support or Contact
+#### 2015 年
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[1] Youxi Wu, Shuai Fu, He Jiang, Xindong Wu. Strict approximate pattern matching with general gaps. Applied Intelligence. 2015, Volume 42, Issue 3, pp 566-580.  (PDF) (Source codes)
+
+[2] 柴欣，贾晓菲，武优西，江贺，吴信东. 一般间隙及一次性条件的严格模式匹配. 软件学报,  2015, 26(5):1096−1112.   (PDF) (Source codes)
+
+[3] 李艳，武优西，黄春萍，张志颖，曾珍香. 网树求解有向无环图中具有长度约束的最大不相交路径. 通信学报. 2015, 36(8): 38-49.
+
+#### 2014 年
+
+[1] Youxi Wu, Lingling Wang, Jiadong Ren, Wei Ding, Xindong Wu. Mining sequential patterns with periodic wildcard gaps. Applied Intelligence. Volume 41, Issue 1 (2014), Page 99-116.  (PDF) (Source codes)
+
+[2] He JIANG, JiFeng XUAN, ZhiLei REN, YouXi WU, XinDong WU. Misleading Classification. Science China Information Sciences. 2014, Volume 57, Issue 5, pp 1-17
+
+[3] 隋玉敏，孙秀芳，武优西，任志考. 负投影梯度的特征权重Leader聚类算法, 小型微型计算系统. 2014, 35(9): 2147-2150.
+
+#### 2013年
+
+[1] 武优西，刘亚伟，郭磊，吴信东. 子网树求解一般间隙和长度约束严格模式匹配. 软件学报. 2013, 24(5): 915-932   (PDF) (Source codes)
+
+[2] 柴欣，孙劲耀，郭磊，武优西. 改进的BPSO的特征基因选择方法及其在结肠癌检测中的应用研究. 计算机科学. 2013,40(7):239-243
+
+#### 2012年
+[1] 李艳，孙乐，朱怀忠，武优西*.网树求解有向无环图中具有长度约束的简单路径和最长路径问题. 计算机学报. 2012, 35(10):2194-2203 (PDF)
+
+[2] 武优西,侯丹丹,李建满,米少华. 属性权重聚类算法的研究. 小型微型计算机系统. 2012, 33(3):651-654
+
+[3] 武优西,李建满,米少华,侯丹丹. 一种新的自适应数字滤波方法的研究. 计算机工程与应用. 2012, 48 (2): 145-147
+
+[4] Fan Min, Youxi Wu, Xindong Wu.The Apriori property of sequence pattern mining with wildcard gaps. International Journal Functional Informatics and Personalised Medicine. 2012, 4(1): 15–31
+
+[5]Lei Guo, Youxi Wu, Ying Li, Guizhi Xu, Lei Zhao, Youhua Wang. Tissue detection in MR images based on an improved SVM. 2012 6th International Conference on Electromagnetic Field Problems and Applications, ICEF’2012. 2012. EI:20124615670039
+
+#### 2011年
+[1] 武优西，吴信东，江贺，闵帆. 一种求解MPMGOOC问题的启发式算法. 计算机学报. 2011, 34(8): 1452- 1462 .  (PDF) (Source codes)
+
+[2] He Jiang, Shuyan Zhang, Jifeng Xuan, Youxi Wu. Frequency Distribution based Hyper-Heuristic for the Bin-Packing Problem. 11th European Conference on Evolutionary Computation in Combinatorial Optimisation (EvoCOP 2011). 118-129. EI:
+
+[3] Lei Guo, Youxi Wu, Lei Zhao, Ting Cao, Weili Yan, Xueqin Shen. Classification of mental task from EEG signals using immune feature weighted support vector machines. IEEE Transactions on Magnetics. 2011, 47(5): 866-869. SCI&EI:
+
+[4] Lei Guo, Lei Zhao, Youxi Wu, Ying Li, Guizhi Xu, Qingxin Yan. Tumor detection in MR images using one-class immune feature weighted SVMs. IEEE Transactions on Magnetics. 2011, 47(10): 3849-3852. SCI&EI:
+
+[5] Wei Ding, Tomasz F Stepinski, Yang Mu, Lourenço P C Bandeira, Ricardo Vilalta, Youxi Wu, Zhenyu Lu, Tianyu Cao, Xindong Wu. Subkilometer crater discovery with boosting and transfer learning. ACM Transactions on Intelligent Systems and Technology. 2011, 2(4): 39~64. SCI&EI
