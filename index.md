@@ -33,7 +33,7 @@
 
 #### 2018 年
 
-[1] Youxi Wu, Yao Tong, Xingquan Zhu, Xindong Wu. NOSEP: Nonoverlapping Sequence Pattern Mining with Gap Constraints. IEEE Transactions on Cybernetics.  2018, 48(10): 2809-2822.
+[1] Youxi Wu, Yao Tong, Xingquan Zhu, Xindong Wu. NOSEP: Nonoverlapping Sequence Pattern Mining with Gap Constraints. IEEE Transactions on Cybernetics.  2018, 48(10): 2809-2822.[摘要与数据及全部算法](https://github.com/wuc567/Pattern-Mining/tree/master/NOSEP)
 
 [2] Youxi Wu, Shasha Li, Jingyu Liu, Lei Guo, Xindong Wu. NETASPNO: Approximate strict pattern matching under nonoverlapping condition. IEEE Access. 2018, 6(1): 24350-24361.
 
