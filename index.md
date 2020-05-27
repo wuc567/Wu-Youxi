@@ -31,6 +31,12 @@
 
 ### 论文
 
+#### 2020 年
+
+[1] Qiaoshuo Shi, Jinsong Shan, Wenjie Yan, Youxi Wu, Xindong Wu. NetNPG: Nonoverlapping pattern matching with general gap constraints[J]. Applied Intelligence, 2020. DOI: 10.1007/s10489-019-01616-z. [摘要与数据及全部算法](https://github.com/wuc567/Pattern-Matching/tree/master/NetNPG)
+
+[2] Youxi Wu, Changrui Zhu, Yan Li, Lei Guo, Xindong Wu. NetNCSP: Nonoverlapping closed sequential pattern mining. Knowledge-Based Systems. 2020:105812. DOI: 10.1016/j.knosys.2020.105812. [摘要与数据及全部算法](https://github.com/wuc567/Pattern-Mining/tree/master/NetNCSP)
+
 #### 2018 年
 
 [1] Youxi Wu, Yao Tong, Xingquan Zhu, Xindong Wu. NOSEP: Nonoverlapping Sequence Pattern Mining with Gap Constraints. IEEE Transactions on Cybernetics.  2018, 48(10): 2809-2822. [摘要与数据及全部算法](https://github.com/wuc567/Pattern-Mining/tree/master/NOSEP)
