@@ -59,7 +59,7 @@
 
 #### 2017 年
 
-[1] Youxi Wu, Cong Shen, He Jiang, Xindong Wu. Strict pattern matching under non-overlapping condition. Science China Information Sciences. 2017, 60 (1):012101:1-16.   Read Online (PDF ) (Source codes)
+[1] Youxi Wu, Cong Shen, He Jiang, Xindong Wu. Strict pattern matching under non-overlapping condition. Science China Information Sciences. 2017, 60 (1):012101:1-16.   Read Online (PDF ) [(Source codes)](https://github.com/wuc567/Pattern-Matching/tree/master/NETLAP-Best)
 
 [2] 武优西，周坤，刘靖宇，江贺，吴信东. 周期性一般间隙约束的序列模式挖掘.  计算机学报. 2017, 40(6): 1338-1352. (PDF) (Source codes)
 
@@ -69,7 +69,7 @@
 
 [1] Dong Liu, Youxi Wu*, He Jiang. FP-ELM: An online sequential learning algorithm for dealing with concept drift. Neurocomputing.  2016, 207(26): 322–334  (PDF)
 
-[2] Youxi Wu, Zhiqiang Tang, He Jiang, Xindong Wu. Approximate pattern matching with gap constraints. Journal of Information Science.2016, 42(5): 639–658  (PDF)  (Source codes)
+[2] Youxi Wu, Zhiqiang Tang, He Jiang, Xindong Wu. Approximate pattern matching with gap constraints. Journal of Information Science.2016, 42(5): 639–658  (PDF)  [(Source codes)](https://github.com/wuc567/Pattern-Matching/tree/master/Song)
 
 [3] Yongfeng Dong, Jingyu Liu, Jie Yan, Hongpu Liu, and Youxi Wu. HS-RAID2: Optimizing Small Write Performance in HS-RAID, Journal of Electrical and Computer Engineering, vol. 2016, Article ID 7341735, 8 pages, 2016. doi:10.1155/2016/7341735.
 
@@ -79,13 +79,13 @@
 
 [1] Youxi Wu, Shuai Fu, He Jiang, Xindong Wu. Strict approximate pattern matching with general gaps. Applied Intelligence. 2015, Volume 42, Issue 3, pp 566-580.  (PDF) (Source codes)
 
-[2] 柴欣，贾晓菲，武优西，江贺，吴信东. 一般间隙及一次性条件的严格模式匹配. 软件学报,  2015, 26(5):1096−1112.   (PDF) (Source codes)
+[2] 柴欣，贾晓菲，武优西，江贺，吴信东. 一般间隙及一次性条件的严格模式匹配. 软件学报,  2015, 26(5):1096−1112.   (PDF) [(Source codes)](https://github.com/wuc567/Pattern-Matching/tree/master/DCNP)
 
 [3] 李艳，武优西，黄春萍，张志颖，曾珍香. 网树求解有向无环图中具有长度约束的最大不相交路径. 通信学报. 2015, 36(8): 38-49.
 
 #### 2014 年
 
-[1] Youxi Wu, Lingling Wang, Jiadong Ren, Wei Ding, Xindong Wu. Mining sequential patterns with periodic wildcard gaps. Applied Intelligence. Volume 41, Issue 1 (2014), Page 99-116.  [(PDF) (Source codes)](https://github.com/wuc567/Pattern-Mining/tree/master/MAPD)
+[1] Youxi Wu, Lingling Wang, Jiadong Ren, Wei Ding, Xindong Wu. Mining sequential patterns with periodic wildcard gaps. Applied Intelligence. Volume 41, Issue 1 (2014), Page 99-116.  (PDF) [(Source codes)](https://github.com/wuc567/Pattern-Mining/tree/master/MAPD)
 
 [2] He JIANG, JiFeng XUAN, ZhiLei REN, YouXi WU, XinDong WU. Misleading Classification. Science China Information Sciences. 2014, Volume 57, Issue 5, pp 1-17
 
@@ -93,7 +93,7 @@
 
 #### 2013年
 
-[1] 武优西，刘亚伟，郭磊，吴信东. 子网树求解一般间隙和长度约束严格模式匹配. 软件学报. 2013, 24(5): 915-932   (PDF) (Source codes)
+[1] 武优西，刘亚伟，郭磊，吴信东. 子网树求解一般间隙和长度约束严格模式匹配. 软件学报. 2013, 24(5): 915-932   (PDF) [(Source codes)](https://github.com/wuc567/Pattern-Matching/tree/master/SETS)
 
 [2] 柴欣，孙劲耀，郭磊，武优西. 改进的BPSO的特征基因选择方法及其在结肠癌检测中的应用研究. 计算机科学. 2013,40(7):239-243
 
