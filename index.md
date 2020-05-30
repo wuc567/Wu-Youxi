@@ -85,7 +85,7 @@
 
 #### 2014 年
 
-[1] Youxi Wu, Lingling Wang, Jiadong Ren, Wei Ding, Xindong Wu. Mining sequential patterns with periodic wildcard gaps. Applied Intelligence. Volume 41, Issue 1 (2014), Page 99-116.  (PDF) (Source codes)
+[1] Youxi Wu, Lingling Wang, Jiadong Ren, Wei Ding, Xindong Wu. Mining sequential patterns with periodic wildcard gaps. Applied Intelligence. Volume 41, Issue 1 (2014), Page 99-116.  [(PDF) (Source codes)](https://github.com/wuc567/Pattern-Mining/tree/master/MAPD)
 
 [2] He JIANG, JiFeng XUAN, ZhiLei REN, YouXi WU, XinDong WU. Misleading Classification. Science China Information Sciences. 2014, Volume 57, Issue 5, pp 1-17
 
