@@ -35,17 +35,17 @@
 
 [1] Qiaoshuo Shi, Jinsong Shan, Wenjie Yan, Youxi Wu, Xindong Wu. NetNPG: Nonoverlapping pattern matching with general gap constraints[J]. Applied Intelligence, 2020. DOI: 10.1007/s10489-019-01616-z. [摘要与数据及全部算法](https://github.com/wuc567/Pattern-Matching/tree/master/NetNPG)
 
-[2] Youxi Wu, Changrui Zhu, Yan Li, Lei Guo, Xindong Wu. NetNCSP: Nonoverlapping closed sequential pattern mining. Knowledge-Based Systems. 2020:105812. DOI: 10.1016/j.knosys.2020.105812. [摘要与数据及全部算法](https://github.com/wuc567/Pattern-Mining/tree/master/NetNCSP)
+[2] Youxi Wu, Changrui Zhu, Yan Li, Lei Guo, Xindong Wu. NetNCSP: Nonoverlapping closed sequential pattern mining. Knowledge-Based Systems. 2020:105812. DOI: 10.1016/j.knosys.2020.105812. ([pdf](https://github.com/wuc567/papers/blob/master/8%20%202020%20kbs%201-s2.0-S0950705120301945-main.pdf))[摘要与数据及全部算法](https://github.com/wuc567/Pattern-Mining/tree/master/NetNCSP)
 
 #### 2018 年
 
-[1] Youxi Wu, Yao Tong, Xingquan Zhu, Xindong Wu. NOSEP: Nonoverlapping Sequence Pattern Mining with Gap Constraints. IEEE Transactions on Cybernetics.  2018, 48(10): 2809-2822. [摘要与数据及全部算法](https://github.com/wuc567/Pattern-Mining/tree/master/NOSEP)
+[1] Youxi Wu, Yao Tong, Xingquan Zhu, Xindong Wu. NOSEP: Nonoverlapping Sequence Pattern Mining with Gap Constraints. IEEE Transactions on Cybernetics.  2018, 48(10): 2809-2822. ([pdf](https://github.com/wuc567/papers/blob/master/7%20%202018%20tcyb.pdf))[摘要与数据及全部算法](https://github.com/wuc567/Pattern-Mining/tree/master/NOSEP)
 
-[2] Youxi Wu, Shasha Li, Jingyu Liu, Lei Guo, Xindong Wu. NETASPNO: Approximate strict pattern matching under nonoverlapping condition. IEEE Access. 2018, 6(1): 24350-24361. [摘要及全部算法](https://github.com/wuc567/Pattern-Matching/tree/master/NETASPNO)
+[2] Youxi Wu, Shasha Li, Jingyu Liu, Lei Guo, Xindong Wu. NETASPNO: Approximate strict pattern matching under nonoverlapping condition. IEEE Access. 2018, 6(1): 24350-24361.([pdf](https://github.com/wuc567/papers/blob/master/6%20%202018%20IEEE%20ACCESS%20NETASP.pdf)) [摘要及全部算法](https://github.com/wuc567/Pattern-Matching/tree/master/NETASPNO)
 
 [3] Yan Li, Hongyan Zhang, Huaizhong Zhu, Jianwei Li, Wenjie Yan, Youxi Wu*. IBAS: Index based A-star. IEEE Access. 2018, 6(1): 11707-11715.
 
-[4] Youxi Wu, Yuehua Wang, Jingyu Liu, Ming Yu, Jing Liu, Yan Li. Mining distinguishing subsequence patterns with nonoverlapping condition. Cluster Computing. https://doi.org/10.1007/s10586-017-1671-0 . Accepted
+[4] Youxi Wu, Yuehua Wang, Jingyu Liu, Ming Yu, Jing Liu, Yan Li. Mining distinguishing subsequence patterns with nonoverlapping condition. Cluster Computing. https://doi.org/10.1007/s10586-017-1671-0 . Accepted ([pdf](https://github.com/wuc567/papers/blob/master/9%20%202019%20nocm-cluster%20computing.pdf))
 
 [5] Xin Chai, Dan Yang, Jingyu Liu, Yan Li, Youxi Wu. Top-k sequence pattern mining with non-overlapping condition. Filomat. 2018, 32(5): 1703-1710.
 
@@ -59,7 +59,7 @@
 
 #### 2017 年
 
-[1] Youxi Wu, Cong Shen, He Jiang, Xindong Wu. Strict pattern matching under non-overlapping condition. Science China Information Sciences. 2017, 60 (1):012101:1-16.   Read Online (PDF ) [(Source codes)](https://github.com/wuc567/Pattern-Matching/tree/master/NETLAP-Best)
+[1] Youxi Wu, Cong Shen, He Jiang, Xindong Wu. Strict pattern matching under non-overlapping condition. Science China Information Sciences. 2017, 60 (1):012101:1-16.   Read Online ([PDF](https://github.com/wuc567/papers/blob/master/5%20%202017%20scis.pdf)) [(Source codes)](https://github.com/wuc567/Pattern-Matching/tree/master/NETLAP-Best)
 
 [2] 武优西，周坤，刘靖宇，江贺，吴信东. 周期性一般间隙约束的序列模式挖掘.  计算机学报. 2017, 40(6): 1338-1352. (PDF) (Source codes)
 
@@ -69,7 +69,7 @@
 
 [1] Dong Liu, Youxi Wu*, He Jiang. FP-ELM: An online sequential learning algorithm for dealing with concept drift. Neurocomputing.  2016, 207(26): 322–334  (PDF)
 
-[2] Youxi Wu, Zhiqiang Tang, He Jiang, Xindong Wu. Approximate pattern matching with gap constraints. Journal of Information Science.2016, 42(5): 639–658  (PDF)  [(Source codes)](https://github.com/wuc567/Pattern-Matching/tree/master/Song)
+[2] Youxi Wu, Zhiqiang Tang, He Jiang, Xindong Wu. Approximate pattern matching with gap constraints. Journal of Information Science.2016, 42(5): 639–658  ([PDF](https://github.com/wuc567/papers/blob/master/3%20%202016%20JIS.pdf))  [(Source codes)](https://github.com/wuc567/Pattern-Matching/tree/master/Song)
 
 [3] Yongfeng Dong, Jingyu Liu, Jie Yan, Hongpu Liu, and Youxi Wu. HS-RAID2: Optimizing Small Write Performance in HS-RAID, Journal of Electrical and Computer Engineering, vol. 2016, Article ID 7341735, 8 pages, 2016. doi:10.1155/2016/7341735.
 
@@ -77,7 +77,7 @@
 
 #### 2015 年
 
-[1] Youxi Wu, Shuai Fu, He Jiang, Xindong Wu. Strict approximate pattern matching with general gaps. Applied Intelligence. 2015, Volume 42, Issue 3, pp 566-580.  (PDF) (Source codes)
+[1] Youxi Wu, Shuai Fu, He Jiang, Xindong Wu. Strict approximate pattern matching with general gaps. Applied Intelligence. 2015, Volume 42, Issue 3, pp 566-580.  ([PDF](https://github.com/wuc567/papers/blob/master/4%20%202015%20APIN-SETA.pdf)) (Source codes)
 
 [2] 柴欣，贾晓菲，武优西，江贺，吴信东. 一般间隙及一次性条件的严格模式匹配. 软件学报,  2015, 26(5):1096−1112.   (PDF) [(Source codes)](https://github.com/wuc567/Pattern-Matching/tree/master/DCNP)
 
