@@ -37,6 +37,8 @@
 
 [2] Youxi Wu, Changrui Zhu, Yan Li, Lei Guo, Xindong Wu. NetNCSP: Nonoverlapping closed sequential pattern mining. Knowledge-Based Systems. 2020:105812. DOI: 10.1016/j.knosys.2020.105812. ([pdf](https://github.com/wuc567/papers/blob/master/8%20%202020%20kbs%201-s2.0-S0950705120301945-main.pdf))[摘要与数据及全部算法](https://github.com/wuc567/Pattern-Mining/tree/master/NetNCSP)
 
+[3] 武优西, 刘茜, 闫文杰, 郭磊, 吴信东. 无重叠条件严格模式匹配的高效求解算法. 软件学报，2020. （已录用） ([pdf](https://github.com/wuc567/papers/blob/master/1%20jf012-2-%E5%AE%9A%E7%A8%BF.pdf)) [摘要与数据及全部算法](https://github.com/wuc567/Pattern-Matching/tree/master/NetBack)
+
 #### 2018 年
 
 [1] Youxi Wu, Yao Tong, Xingquan Zhu, Xindong Wu. NOSEP: Nonoverlapping Sequence Pattern Mining with Gap Constraints. IEEE Transactions on Cybernetics.  2018, 48(10): 2809-2822. ([pdf](https://github.com/wuc567/papers/blob/master/7%20%202018%20tcyb.pdf))[摘要与数据及全部算法](https://github.com/wuc567/Pattern-Mining/tree/master/NOSEP)
