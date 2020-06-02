@@ -33,7 +33,7 @@
 
 #### 2020 年
 
-[1] Qiaoshuo Shi, Jinsong Shan, Wenjie Yan, Youxi Wu, Xindong Wu. NetNPG: Nonoverlapping pattern matching with general gap constraints[J]. Applied Intelligence, 2020. DOI: 10.1007/s10489-019-01616-z. [摘要与数据及全部算法](https://github.com/wuc567/Pattern-Matching/tree/master/NetNPG)
+[1] Qiaoshuo Shi, Jinsong Shan, Wenjie Yan, Youxi Wu, Xindong Wu. NetNPG: Nonoverlapping pattern matching with general gap constraints[J]. Applied Intelligence, 2020. [DOI: 10.1007/s10489-019-01616-z](https://link.springer.com/article/10.1007/s10489-019-01616-z). [摘要与数据及全部算法](https://github.com/wuc567/Pattern-Matching/tree/master/NetNPG)
 
 [2] Youxi Wu, Changrui Zhu, Yan Li, Lei Guo, Xindong Wu. NetNCSP: Nonoverlapping closed sequential pattern mining. Knowledge-Based Systems. 2020:105812. DOI: 10.1016/j.knosys.2020.105812. ([pdf](https://github.com/wuc567/papers/blob/master/8%20%202020%20kbs%201-s2.0-S0950705120301945-main.pdf))[摘要与数据及全部算法](https://github.com/wuc567/Pattern-Mining/tree/master/NetNCSP)
 
