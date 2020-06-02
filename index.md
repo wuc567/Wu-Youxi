@@ -33,17 +33,17 @@
 
 #### 2020 年
 
-[1] Qiaoshuo Shi, Jinsong Shan, Wenjie Yan, Youxi Wu, Xindong Wu. NetNPG: Nonoverlapping pattern matching with general gap constraints[J]. Applied Intelligence, 2020. [DOI: 10.1007/s10489-019-01616-z](https://link.springer.com/article/10.1007/s10489-019-01616-z). [摘要与数据及全部算法](https://github.com/wuc567/Pattern-Matching/tree/master/NetNPG)
+[1] Qiaoshuo Shi, Jinsong Shan, Wenjie Yan, Youxi Wu, Xindong Wu. NetNPG: Nonoverlapping pattern matching with general gap constraints[J]. Applied Intelligence, 2020. [DOI: 10.1007/s10489-019-01616-z](https://link.springer.com/article/10.1007/s10489-019-01616-z).  [摘要与数据及全部算法](https://github.com/wuc567/Pattern-Matching/tree/master/NetNPG)
 
-[2] Youxi Wu, Changrui Zhu, Yan Li, Lei Guo, Xindong Wu. NetNCSP: Nonoverlapping closed sequential pattern mining. Knowledge-Based Systems. 2020:105812. DOI: 10.1016/j.knosys.2020.105812. ([pdf](https://github.com/wuc567/papers/blob/master/8%20%202020%20kbs%201-s2.0-S0950705120301945-main.pdf))[摘要与数据及全部算法](https://github.com/wuc567/Pattern-Mining/tree/master/NetNCSP)
+[2] Youxi Wu, Changrui Zhu, Yan Li, Lei Guo, Xindong Wu. NetNCSP: Nonoverlapping closed sequential pattern mining. Knowledge-Based Systems. 2020:105812. DOI: 10.1016/j.knosys.2020.105812. ([pdf](https://github.com/wuc567/papers/blob/master/8%20%202020%20kbs%201-s2.0-S0950705120301945-main.pdf))  [摘要与数据及全部算法](https://github.com/wuc567/Pattern-Mining/tree/master/NetNCSP)
 
-[3] 武优西, 刘茜, 闫文杰, 郭磊, 吴信东. 无重叠条件严格模式匹配的高效求解算法. 软件学报，2020. （已录用） ([pdf](https://github.com/wuc567/papers/blob/master/1%20jf012-2-%E5%AE%9A%E7%A8%BF.pdf)) [摘要与数据及全部算法](https://github.com/wuc567/Pattern-Matching/tree/master/NetBack)
+[3] 武优西, 刘茜, 闫文杰, 郭磊, 吴信东. 无重叠条件严格模式匹配的高效求解算法. 软件学报，2020. (已录用) ([pdf](https://github.com/wuc567/papers/blob/master/1%20jf012-2-%E5%AE%9A%E7%A8%BF.pdf))  [摘要与数据及全部算法](https://github.com/wuc567/Pattern-Matching/tree/master/NetBack)
 
 #### 2018 年
 
-[1] Youxi Wu, Yao Tong, Xingquan Zhu, Xindong Wu. NOSEP: Nonoverlapping Sequence Pattern Mining with Gap Constraints. IEEE Transactions on Cybernetics.  2018, 48(10): 2809-2822. ([pdf](https://github.com/wuc567/papers/blob/master/7%20%202018%20tcyb.pdf))[摘要与数据及全部算法](https://github.com/wuc567/Pattern-Mining/tree/master/NOSEP)
+[1] Youxi Wu, Yao Tong, Xingquan Zhu, Xindong Wu. NOSEP: Nonoverlapping Sequence Pattern Mining with Gap Constraints. IEEE Transactions on Cybernetics.  2018, 48(10): 2809-2822. ([pdf](https://github.com/wuc567/papers/blob/master/7%20%202018%20tcyb.pdf))  [摘要与数据及全部算法](https://github.com/wuc567/Pattern-Mining/tree/master/NOSEP)
 
-[2] Youxi Wu, Shasha Li, Jingyu Liu, Lei Guo, Xindong Wu. NETASPNO: Approximate strict pattern matching under nonoverlapping condition. IEEE Access. 2018, 6(1): 24350-24361.([pdf](https://github.com/wuc567/papers/blob/master/6%20%202018%20IEEE%20ACCESS%20NETASP.pdf)) [摘要及全部算法](https://github.com/wuc567/Pattern-Matching/tree/master/NETASPNO)
+[2] Youxi Wu, Shasha Li, Jingyu Liu, Lei Guo, Xindong Wu. NETASPNO: Approximate strict pattern matching under nonoverlapping condition. IEEE Access. 2018, 6(1): 24350-24361.([pdf](https://github.com/wuc567/papers/blob/master/6%20%202018%20IEEE%20ACCESS%20NETASP.pdf))  [摘要及全部算法](https://github.com/wuc567/Pattern-Matching/tree/master/NETASPNO)
 
 [3] Yan Li, Hongyan Zhang, Huaizhong Zhu, Jianwei Li, Wenjie Yan, Youxi Wu*. IBAS: Index based A-star. IEEE Access. 2018, 6(1): 11707-11715.
 
@@ -61,7 +61,7 @@
 
 #### 2017 年
 
-[1] Youxi Wu, Cong Shen, He Jiang, Xindong Wu. Strict pattern matching under non-overlapping condition. Science China Information Sciences. 2017, 60 (1):012101:1-16.   Read Online ([PDF](https://github.com/wuc567/papers/blob/master/5%20%202017%20scis.pdf)) [(Source codes)](https://github.com/wuc567/Pattern-Matching/tree/master/NETLAP-Best)
+[1] Youxi Wu, Cong Shen, He Jiang, Xindong Wu. Strict pattern matching under non-overlapping condition. Science China Information Sciences. 2017, 60 (1):012101:1-16.   Read Online ([pdf](https://github.com/wuc567/papers/blob/master/5%20%202017%20scis.pdf))  [(Source codes)](https://github.com/wuc567/Pattern-Matching/tree/master/NETLAP-Best)
 
 [2] 武优西，周坤，刘靖宇，江贺，吴信东. 周期性一般间隙约束的序列模式挖掘.  计算机学报. 2017, 40(6): 1338-1352. (PDF) (Source codes)
 
