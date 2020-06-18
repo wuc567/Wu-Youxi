@@ -81,7 +81,7 @@
 
 #### 2015 年
 
-[1] Youxi Wu, Shuai Fu, He Jiang, Xindong Wu. Strict approximate pattern matching with general gaps. Applied Intelligence. 2015, Volume 42, Issue 3, pp 566-580.  ([PDF](https://github.com/wuc567/papers/blob/master/4%20%202015%20APIN-SETA.pdf)) (Source codes)
+[1] Youxi Wu, Shuai Fu, He Jiang, Xindong Wu. Strict approximate pattern matching with general gaps. Applied Intelligence. 2015, Volume 42, Issue 3, pp 566-580.  ([PDF](https://github.com/wuc567/papers/blob/master/4%20%202015%20APIN-SETA.pdf)) [(Source codes)](https://github.com/wuc567/Pattern-Matching/tree/master/SETA)
 
 [2] 柴欣，贾晓菲，武优西，江贺，吴信东. 一般间隙及一次性条件的严格模式匹配. 软件学报,  2015, 26(5):1096−1112.   (PDF) [(Source codes)](https://github.com/wuc567/Pattern-Matching/tree/master/DCNP)
 
