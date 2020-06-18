@@ -39,6 +39,8 @@
 
 [3] 武优西, 刘茜, 闫文杰, 郭磊, 吴信东. 无重叠条件严格模式匹配的高效求解算法. 软件学报，2020. (已录用) ([pdf](https://github.com/wuc567/papers/blob/master/1%20jf012-2-%E5%AE%9A%E7%A8%BF.pdf))  [摘要与数据及全部算法](https://github.com/wuc567/Pattern-Matching/tree/master/NetBack)
 
+[4] Youxi Wu, Jinquan Fan, Yan Li, Lei Guo, Xindong Wu. NetDAP: (δ, γ)-Approximate Pattern matching with length constraints[J]. Applied Intelligence, 2020. [pdf]() [摘要与数据及全部算法](https://github.com/wuc567/Pattern-Matching/tree/master/NetDAP)
+
 #### 2018 年
 
 [1] Youxi Wu, Yao Tong, Xingquan Zhu, Xindong Wu. NOSEP: Nonoverlapping Sequence Pattern Mining with Gap Constraints. IEEE Transactions on Cybernetics.  2018, 48(10): 2809-2822. ([pdf](https://github.com/wuc567/papers/blob/master/7%20%202018%20tcyb.pdf))  [摘要与数据及全部算法](https://github.com/wuc567/Pattern-Mining/tree/master/NOSEP)
