@@ -41,6 +41,10 @@
 
 [4] Youxi Wu, Jinquan Fan, Yan Li, Lei Guo, Xindong Wu. NetDAP: (δ, γ)-Approximate pattern matching with length constraints[J]. Applied Intelligence, 2020, 50(11): 4094-4116. https://doi.org/10.1007/s10489-020-01778-1 ([pdf](https://github.com/wuc567/papers/blob/master/10%202020%20APIN-NetDAP.pdf)) [摘要与数据及全部算法](https://github.com/wuc567/Pattern-Matching/tree/master/NetDAP)
 
+#### 2019 年
+
+[1] Youxi Wu, Yuehua Wang, Jingyu Liu, Ming Yu, Jing Liu, Yan Li. Mining distinguishing subsequence patterns with nonoverlapping condition. Cluster Computing. 2019, 22(3): 5905-5917. https://doi.org/10.1007/s10586-017-1671-0 . Accepted ([pdf](https://github.com/wuc567/papers/blob/master/9%20%202019%20nocm-cluster%20computing.pdf))
+
 #### 2018 年
 
 [1] Youxi Wu, Yao Tong, Xingquan Zhu, Xindong Wu. NOSEP: Nonoverlapping Sequence Pattern Mining with Gap Constraints. IEEE Transactions on Cybernetics.  2018, 48(10): 2809-2822. ([pdf](https://github.com/wuc567/papers/blob/master/7%20%202018%20tcyb.pdf))  [摘要与数据及全部算法](https://github.com/wuc567/Pattern-Mining/tree/master/NOSEP)
@@ -48,8 +52,6 @@
 [2] Youxi Wu, Shasha Li, Jingyu Liu, Lei Guo, Xindong Wu. NETASPNO: Approximate strict pattern matching under nonoverlapping condition. IEEE Access. 2018, 6(1): 24350-24361.([pdf](https://github.com/wuc567/papers/blob/master/6%20%202018%20IEEE%20ACCESS%20NETASP.pdf))  [摘要及全部算法](https://github.com/wuc567/Pattern-Matching/tree/master/NETASPNO)
 
 [3] Yan Li, Hongyan Zhang, Huaizhong Zhu, Jianwei Li, Wenjie Yan, Youxi Wu*. IBAS: Index based A-star. IEEE Access. 2018, 6(1): 11707-11715.
-
-[4] Youxi Wu, Yuehua Wang, Jingyu Liu, Ming Yu, Jing Liu, Yan Li. Mining distinguishing subsequence patterns with nonoverlapping condition. Cluster Computing. https://doi.org/10.1007/s10586-017-1671-0 . Accepted ([pdf](https://github.com/wuc567/papers/blob/master/9%20%202019%20nocm-cluster%20computing.pdf))
 
 [5] Xin Chai, Dan Yang, Jingyu Liu, Yan Li, Youxi Wu. Top-k sequence pattern mining with non-overlapping condition. Filomat. 2018, 32(5): 1703-1710.
 
