@@ -32,6 +32,24 @@
 
 ### 论文
 
+###2021 年
+
+[1]Youxi  Wu, Yuehua Wang, Yan Li, Xingquan Zhu, Xindong Wu,  Top-k self-adaptive contrast sequential pattern mining. IEEE Transactions on Cybernetics. DOI: 10.1109/TCYB.2021.3082114
+
+[2]Youxi Wu, Rong Lei, Yan Li, Lei Guo, Xindong Wu. HAOP-Miner: Self-adaptive high-average utility one-off sequential pattern mining. Expert Systems With Applications. DOI: 10.1016/j.eswa.2021.115449 
+
+[3]Youxi Wu, Xi Liu, Wenjie Yan, Lei Guo, Xindong Wu. Efficient solving algorithm for strict pattern matching under nonoverlapping condition. Journal of Software, DOI: 10.13328/j.cnki.jos.006054  
+
+[4]Youxi Wu, Xiaohui Wang, Yan Li, Lei Guo, Zhao Li, Ji Zhang, Xindong Wu. OWSP-Miner: Self-adaptive one-off weak-gap strong pattern mining. ACM Transactions on Management Information Systems. DOI: 10.1145/3476247
+
+[5]Youxi Wu, Meng Geng, Yan Li, Lei Guo, Zhao Li, Philippe Fournier-Viger, Xingquan Zhu, Xindong Wu. HANP-Miner: High average utility nonoverlapping sequential pattern mining. Knowledge-Based Systems. 2021. 229, 107361
+
+[6]Youxi Wu, Lanfang Luo,  Yan Li, Lei Guo, Philippe Fournier-Viger, Xingquan Zhu, Xindong Wu. NTP-Miner: Nonoverlapping three-way sequential pattern mining. ACM Transactions on Knowledge Discovery from Data.  2021. DOI: 10.1145/3480245.  doi: 10.1145/3480245
+
+[7]Shuhui Cheng, Youxi Wu, Yan Li, Fang Yao, Fan Min. TWD-SFNN: Three-way decisions with a single hidden layer feedforward neural network. Information Sciences. 2021, DOI: 10.1016/j.ins.2021.07.091
+
+[8]Yuehua Wang, Youxi Wu, Yan Li, Fang Yao, Philippe Fournier-Viger, Xindong Wu. Self-adaptive nonoverlapping sequential pattern mining. Applied Intelligence. 2021, DOI: 10.1007/s10489-021-02763-y
+
 #### 2020 年
 
 [1] Qiaoshuo Shi, Jinsong Shan, Wenjie Yan, Youxi Wu, Xindong Wu. NetNPG: Nonoverlapping pattern matching with general gap constraints[J]. Applied Intelligence, 2020, 50(6): 1832-1845. [DOI: 10.1007/s10489-019-01616-z](https://link.springer.com/article/10.1007/s10489-019-01616-z).  [摘要与数据及全部算法](https://github.com/wuc567/Pattern-Matching/tree/master/NetNPG)
