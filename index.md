@@ -38,7 +38,7 @@
 
 [2]Youxi Wu, Rong Lei, Yan Li, Lei Guo, Xindong Wu. HAOP-Miner: Self-adaptive high-average utility one-off sequential pattern mining. Expert Systems With Applications. DOI: 10.1016/j.eswa.2021.115449 
 
-[3]Youxi Wu, Xi Liu, Wenjie Yan, Lei Guo, Xindong Wu. Efficient solving algorithm for strict pattern matching under nonoverlapping condition. Journal of Software, DOI: 10.13328/j.cnki.jos.006054  
+[3]Youxi Wu, Xi Liu, Wenjie Yan, Lei Guo, Xindong Wu. Efficient algorithm for solving strict pattern matching under nonoverlapping condition. Journal of Software, 2021, 32(11): 3331-3350. DOI: 10.13328/j.cnki.jos.006054  
 
 [4]Youxi Wu, Xiaohui Wang, Yan Li, Lei Guo, Zhao Li, Ji Zhang, Xindong Wu. OWSP-Miner: Self-adaptive one-off weak-gap strong pattern mining. ACM Transactions on Management Information Systems. DOI: 10.1145/3476247
 
@@ -49,6 +49,9 @@
 [7]Shuhui Cheng, Youxi Wu, Yan Li, Fang Yao, Fan Min. TWD-SFNN: Three-way decisions with a single hidden layer feedforward neural network. Information Sciences. 2021, DOI: 10.1016/j.ins.2021.07.091
 
 [8]Yuehua Wang, Youxi Wu, Yan Li, Fang Yao, Philippe Fournier-Viger, Xindong Wu. Self-adaptive nonoverlapping sequential pattern mining. Applied Intelligence. 2021, DOI: 10.1007/s10489-021-02763-y
+
+[9]Yan Li, Shuai Zhang, Lei Guo, Jing Liu, Youxi Wu,* Xindong Wu. NetNMSP: Nonoverlapping maximal sequential pattern mining. Applied Intelligence. 2021, DOI: 10.1007/s10489-021-02912-3
+[10]Yan Li, Lei Yu, Jing Liu, Lei Guo, Youxi Wu,* Xindong Wu. NetDPO: (delta, gamma)-approximate pattern matching with gap constraints under one-off condition. Applied Intelligence. 2021,
 
 #### 2020 年
 
