@@ -46,7 +46,7 @@
 
 [6]Youxi Wu, Lanfang Luo,  Yan Li, Lei Guo, Philippe Fournier-Viger, Xingquan Zhu, Xindong Wu. NTP-Miner: Nonoverlapping three-way sequential pattern mining. ACM Transactions on Knowledge Discovery from Data.  2021. DOI: 10.1145/3480245.  doi: 10.1145/3480245
 
-[7]Shuhui Cheng, Youxi Wu, Yan Li, Fang Yao, Fan Min. TWD-SFNN: Three-way decisions with a single hidden layer feedforward neural network. Information Sciences. 2021, DOI: 10.1016/j.ins.2021.07.091
+[7]Shuhui Cheng, Youxi Wu, Yan Li, Fang Yao, Fan Min. TWD-SFNN: Three-way decisions with a single hidden layer feedforward neural network. Information Sciences. 2021, 579, 15–32.  , DOI: 10.1016/j.ins.2021.07.091
 
 [8]Yuehua Wang, Youxi Wu, Yan Li, Fang Yao, Philippe Fournier-Viger, Xindong Wu. Self-adaptive nonoverlapping sequential pattern mining. Applied Intelligence. 2021, DOI: 10.1007/s10489-021-02763-y
 
