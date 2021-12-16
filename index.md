@@ -50,9 +50,34 @@
 
 [8]Yuehua Wang, Youxi Wu, Yan Li, Fang Yao, Philippe Fournier-Viger, Xindong Wu. Self-adaptive nonoverlapping sequential pattern mining. Applied Intelligence. 2021, DOI: 10.1007/s10489-021-02763-y
 
-[9]Yan Li, Shuai Zhang, Lei Guo, Jing Liu, Youxi Wu,* Xindong Wu. NetNMSP: Nonoverlapping maximal sequential pattern mining. Applied Intelligence. 2021, DOI: 10.1007/s10489-021-02912-3
+[9]Yan Li, Shuai Zhang, Lei Guo, Jing Liu, Youxi Wu*, Xindong Wu. NetNMSP: Nonoverlapping maximal sequential pattern mining. Applied Intelligence. 2021, DOI: 10.1007/s10489-021-02912-3
 
-[10]Yan Li, Lei Yu, Jing Liu, Lei Guo, Youxi Wu,* Xindong Wu. NetDPO: (delta, gamma)-approximate pattern matching with gap constraints under one-off condition. Applied Intelligence. 2021,
+[10]Yan Li, Lei Yu, Jing Liu, Lei Guo, Youxi Wu*, Xindong Wu. NetDPO: (delta, gamma)-approximate pattern matching with gap constraints under one-off condition. Applied Intelligence. 2021, DOI: 10.1007/s10489-021-03000-2
+
+[11]Youxi Wu, Bojing Jian, Yan Li, He Jiang, Xingdong Wu. NetNDP: Nonoverlapping (delta, gamma)-approximate pattern matching. Intelligent Data Analysis.
+
+Wu, Y., Geng, M., Li, Y., Guo, L., Fournier-Viger. P. (2021). NetHAPP: High Average Utility Periodic Gapped Sequential Pattern Mining. In the book “Periodic Pattern Mining: Theory, Algorithms and Application”, Springer, to appear.
+
+Hossain, M., Wu, Y., Fournier-Viger, P., Li, Z., Guo, L, Li, Y. (2021). HSNP-Miner: High Utility Self-Adaptive Nonoverlapping Pattern Mining. Proc. 12th IEEE Conference on Big Knowledge, IEEE, 8 pages
+
+Fournier-Viger, P., Wu. Y., Dinh, D.-T., Song, W., Lin, J.C.W. (2021). Discovering Periodic High Utility Itemsets in a Discrete Sequence. In the book “Periodic Pattern Mining: Theory, Algorithms and Application”, Springer, to appear.
+
+Fournier-Viger, P., Chi, T. T., Wu, Y., Qu, J.-F., Lin, J. C.W., Li, Z. (2021). Finding Periodic Patterns in Multiple Discrete Sequences. In the book “Periodic Pattern Mining: Theory, Algorithms and Application”, Springer, to appear.
+
+Nawaz, M.S., Fournier-Viger, P., Yun, U., Wu, Y., Song, W. (2021). Mining High Utility Itemsets with Hill Climbing and Simulated Annealing. ACM Transactions on Management Information Systems (to appear)
+
+	Chen, Y., Fournier-Viger, P., Nouioua, F., Wu, Y. (2021). Mining Partially-Ordered Episode Rules with the Head Support. Proc. 23rd Intern. Conf. on Data Warehousing and Knowledge Discovery (DAWAK 2021), Springer, LNCS, 7 pages
+
+	Nawaz, M. S., Fournier-Viger, P., Niu, X., Wu, Y., Lin, J. C.-W. (2021). COVID-19 Genome Analysis using Alignment-Free Methods. Proc. 34th Intern. Conf. on Industrial, Engineering and Other Applications of Applied Intelligent Systems (IEA AIE 2021), Springer LNAI, pp. 316-328
+
+	Nawaz, M. S., Fournier-Viger, P., Chen, G., Nawaz, M. Z., Wu, Y. (2021). Metamorphic Malware Behavior Analysis using Sequential Pattern Mining. Proceedings of the 1st Workshop on Machine Learning in Software Engineering (MLiSE 2021). PKDD 2021 Workshop proceedings, Springer, 15 pages,
+
+	Chen, Y., Fournier-Viger, P., Nouioua, F., Wu, Y.. (2021). Sequence Prediction using Partially-Ordered Episode Rules. Proc. 4th International Workshop on Utility-Driven Mining (UDML 2021), in conjunction with the ICDM 2021 conference, IEEE ICDM workshop proceedings,
+
+
+	Nouioua, M., Fournier-Viger, P., Gan, W., Wu, Y., Lin, J. C.-W., Nouioua, F. (2021). TKQ: Top-K Quantitative High Utility Itemset Mining. Proc. 16th Intern. Conference on Advanced Data Mining and Applications (ADMA 2021) Springer LNAI, 12 pages
+
+
 
 #### 2020 年
 
