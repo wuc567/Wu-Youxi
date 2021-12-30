@@ -33,7 +33,10 @@
 ### 论文
 
 ###2022 年
+
 [1]Youxi Wu, Lanfang Luo,  Yan Li, Lei Guo, Philippe Fournier-Viger, Xingquan Zhu, Xindong Wu. NTP-Miner: Nonoverlapping three-way sequential pattern mining. ACM Transactions on Knowledge Discovery from Data.  2022. 16, 3, Article 51.
+
+[2]Youxi Wu, Zhu Yuan, Yan Li, Lei Guo, Philippe Fournier-Viger, and Xindong Wu. NWP-Miner: Nonoverlapping weak-gap sequential pattern mining. Information Sciences. 2022.  588, 124-141.  https://doi.org/10.1016/j.ins.2021.12.064
 
 
 ###2021 年
@@ -60,7 +63,6 @@
 
 [11]Youxi Wu, Bojing Jian, Yan Li, He Jiang, Xingdong Wu. NetNDP: Nonoverlapping (delta, gamma)-approximate pattern matching. Intelligent Data Analysis.
 
-[12]Youxi Wu, Zhu Yuan, Yan Li, Lei Guo, Philippe Fournier-Viger, and Xindong Wu. NWP-Miner: Nonoverlapping weak-gap sequential pattern mining. Information Sciences. 2022.  588, 124-141.  https://doi.org/10.1016/j.ins.2021.12.064
 
 [13]Pengfei Ma, Youxi Wu, Yan Li, Lei Guo, Zhao Li. DBC-Forest: Deep forest with binning confidence screening. Neurocomputing.
 
