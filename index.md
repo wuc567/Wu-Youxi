@@ -60,7 +60,7 @@
 
 [11]Youxi Wu, Bojing Jian, Yan Li, He Jiang, Xingdong Wu. NetNDP: Nonoverlapping (delta, gamma)-approximate pattern matching. Intelligent Data Analysis.
 
-[12]Youxi Wu, Zhu Yuan, Yan Li, Lei Guo, Philippe Fournier-Viger, and Xindong Wu. NWP-Miner: Nonoverlapping weak-gap sequential pattern mining. Information Sciences.
+[12]Youxi Wu, Zhu Yuan, Yan Li, Lei Guo, Philippe Fournier-Viger, and Xindong Wu. NWP-Miner: Nonoverlapping weak-gap sequential pattern mining. Information Sciences. https://doi.org/10.1016/j.ins.2021.12.064
 
 [13]Pengfei Ma, Youxi Wu, Yan Li, Lei Guo, Zhao Li. DBC-Forest: Deep forest with binning confidence screening. Neurocomputing.
 
