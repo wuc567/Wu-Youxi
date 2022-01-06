@@ -36,24 +36,32 @@
 
 [1]Youxi Wu, Lanfang Luo,  Yan Li, Lei Guo, Philippe Fournier-Viger, Xingquan Zhu, Xindong Wu. NTP-Miner: Nonoverlapping three-way sequential pattern mining. ACM Transactions on Knowledge Discovery from Data.  2022. 16, 3, Article 51.
 
-[2]Youxi Wu, Zhu Yuan, Yan Li, Lei Guo, Philippe Fournier-Viger, and Xindong Wu. NWP-Miner: Nonoverlapping weak-gap sequential pattern mining. Information Sciences. 2022.  588, 124-141.  https://doi.org/10.1016/j.ins.2021.12.064
+[2]Youxi  Wu, Yuehua Wang, Yan Li, Xingquan Zhu, Xindong Wu,  Top-k self-adaptive contrast sequential pattern mining. IEEE Transactions on Cybernetics. DOI: 10.1109/TCYB.2021.3082114
 
-
-###2021 年
-
-[1]Youxi  Wu, Yuehua Wang, Yan Li, Xingquan Zhu, Xindong Wu,  Top-k self-adaptive contrast sequential pattern mining. IEEE Transactions on Cybernetics. DOI: 10.1109/TCYB.2021.3082114
-
-[2]Youxi Wu, Rong Lei, Yan Li, Lei Guo, Xindong Wu. HAOP-Miner: Self-adaptive high-average utility one-off sequential pattern mining. Expert Systems With Applications. 2021, 184, 115449 
-
-[3]Youxi Wu, Xi Liu, Wenjie Yan, Lei Guo, Xindong Wu. Efficient algorithm for solving strict pattern matching under nonoverlapping condition. Journal of Software, 2021, 32(11): 3331-3350. DOI: 10.13328/j.cnki.jos.006054  
+[3]Youxi Wu, Zhu Yuan, Yan Li, Lei Guo, Philippe Fournier-Viger, and Xindong Wu. NWP-Miner: Nonoverlapping weak-gap sequential pattern mining. Information Sciences. 2022.  588, 124-141.  https://doi.org/10.1016/j.ins.2021.12.064
 
 [4]Youxi Wu, Xiaohui Wang, Yan Li, Lei Guo, Zhao Li, Ji Zhang, Xindong Wu. OWSP-Miner: Self-adaptive one-off weak-gap strong pattern mining. ACM Transactions on Management Information Systems. DOI: 10.1145/3476247
 
-[5]Youxi Wu, Meng Geng, Yan Li, Lei Guo, Zhao Li, Philippe Fournier-Viger, Xingquan Zhu, Xindong Wu. HANP-Miner: High average utility nonoverlapping sequential pattern mining. Knowledge-Based Systems. 2021. 229, 107361
+[11]Youxi Wu, Bojing Jian, Yan Li, He Jiang, Xingdong Wu. NetNDP: Nonoverlapping (delta, gamma)-approximate pattern matching. Intelligent Data Analysis. DOI: 10.3233/IDA-216325
+
+
+[13]Pengfei Ma, Youxi Wu, Yan Li, Lei Guo, Zhao Li. DBC-Forest: Deep forest with binning confidence screening. Neurocomputing. DOI: 10.1016/j.neucom.2021.12.075
+
+###2021 年
 
 
 
-[7]Shuhui Cheng, Youxi Wu, Yan Li, Fang Yao, Fan Min. TWD-SFNN: Three-way decisions with a single hidden layer feedforward neural network. Information Sciences. 2021, 579, 15–32.  
+[1]Youxi Wu, Rong Lei, Yan Li, Lei Guo, Xindong Wu. HAOP-Miner: Self-adaptive high-average utility one-off sequential pattern mining. Expert Systems With Applications. 2021, 184, 115449 
+
+[2]Youxi Wu, Xi Liu, Wenjie Yan, Lei Guo, Xindong Wu. Efficient algorithm for solving strict pattern matching under nonoverlapping condition. Journal of Software, 2021, 32(11): 3331-3350. DOI: 10.13328/j.cnki.jos.006054  
+
+
+
+[3]Youxi Wu, Meng Geng, Yan Li, Lei Guo, Zhao Li, Philippe Fournier-Viger, Xingquan Zhu, Xindong Wu. HANP-Miner: High average utility nonoverlapping sequential pattern mining. Knowledge-Based Systems. 2021. 229, 107361
+
+
+[4]Shuhui Cheng, Youxi Wu, Yan Li, Fang Yao, Fan Min. TWD-SFNN: Three-way decisions with a single hidden layer feedforward neural network. Information Sciences. 2021, 579, 15–32.  
+
 
 [8]Yuehua Wang, Youxi Wu, Yan Li, Fang Yao, Philippe Fournier-Viger, Xindong Wu. Self-adaptive nonoverlapping sequential pattern mining. Applied Intelligence. 2021, DOI: 10.1007/s10489-021-02763-y
 
@@ -61,10 +69,7 @@
 
 [10]Yan Li, Lei Yu, Jing Liu, Lei Guo, Youxi Wu*, Xindong Wu. NetDPO: (delta, gamma)-approximate pattern matching with gap constraints under one-off condition. Applied Intelligence. 2021, DOI: 10.1007/s10489-021-03000-2
 
-[11]Youxi Wu, Bojing Jian, Yan Li, He Jiang, Xingdong Wu. NetNDP: Nonoverlapping (delta, gamma)-approximate pattern matching. Intelligent Data Analysis. DOI: 10.3233/IDA-216325
 
-
-[13]Pengfei Ma, Youxi Wu, Yan Li, Lei Guo, Zhao Li. DBC-Forest: Deep forest with binning confidence screening. Neurocomputing.
 
 Wu, Y., Geng, M., Li, Y., Guo, L., Fournier-Viger. P. (2021). NetHAPP: High Average Utility Periodic Gapped Sequential Pattern Mining. In the book “Periodic Pattern Mining: Theory, Algorithms and Application”, Springer, to appear.
 
