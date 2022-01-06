@@ -61,7 +61,7 @@
 
 [10]Yan Li, Lei Yu, Jing Liu, Lei Guo, Youxi Wu*, Xindong Wu. NetDPO: (delta, gamma)-approximate pattern matching with gap constraints under one-off condition. Applied Intelligence. 2021, DOI: 10.1007/s10489-021-03000-2
 
-[11]Youxi Wu, Bojing Jian, Yan Li, He Jiang, Xingdong Wu. NetNDP: Nonoverlapping (delta, gamma)-approximate pattern matching. Intelligent Data Analysis.
+[11]Youxi Wu, Bojing Jian, Yan Li, He Jiang, Xingdong Wu. NetNDP: Nonoverlapping (delta, gamma)-approximate pattern matching. Intelligent Data Analysis. DOI: 10.3233/IDA-216325
 
 
 [13]Pengfei Ma, Youxi Wu, Yan Li, Lei Guo, Zhao Li. DBC-Forest: Deep forest with binning confidence screening. Neurocomputing.
