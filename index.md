@@ -40,13 +40,13 @@
 
 [3]Youxi Wu, Zhu Yuan, Yan Li, Lei Guo, Philippe Fournier-Viger, and Xindong Wu. NWP-Miner: Nonoverlapping weak-gap sequential pattern mining. Information Sciences. 2022.  588, 124-141.  https://doi.org/10.1016/j.ins.2021.12.064
 
-[4]Youxi Wu, Xiaohui Wang, Yan Li, Lei Guo, Zhao Li, Ji Zhang, Xindong Wu. OWSP-Miner: Self-adaptive one-off weak-gap strong pattern mining. ACM Transactions on Management Information Systems. 2022, 13, 3, Article 25. DOI: 10.1145/3476247
+[4]Youxi Wu, Xiaohui Wang, Yan Li, Lei Guo, Zhao Li, Ji Zhang, Xindong Wu. OWSP-Miner: Self-adaptive one-off weak-gap strong pattern mining. ACM Transactions on Management Information Systems. 2022, 13, 3, Article 25.          DOI: 10.1145/3476247
 
 [11]Youxi Wu, Bojing Jian, Yan Li, He Jiang, Xingdong Wu. NetNDP: Nonoverlapping (delta, gamma)-approximate pattern matching. Intelligent Data Analysis. DOI: 10.3233/IDA-216325
 
 
 [13]Pengfei Ma, Youxi Wu, Yan Li, Lei Guo, Zhao Li. DBC-Forest: Deep forest with binning confidence screening. Neurocomputing. 2022, 475, Pages 112-122.
-   DOI: 10.1016/j.neucom.2021.12.075
+                  DOI: 10.1016/j.neucom.2021.12.075
 
 ###2021 年
 
