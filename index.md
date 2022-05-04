@@ -47,6 +47,10 @@
 
 [6]Pengfei Ma, Youxi Wu, Yan Li, Lei Guo, Zhao Li. DBC-Forest: Deep forest with binning confidence screening. Neurocomputing. 2022, 475, Pages 112-122.
                   DOI: 10.1016/j.neucom.2021.12.075
+                  
+[7] Pengfei Ma, Youxi Wu, Yan Li, Lei Guo, He Jiang, Xingquan Zhu, Xindong Wu. HW-Forest: Deep forest with hashing screening and window screening. ACM Transactions on Knowledge Discovery from Data. doi.org/10.1145/3532193
+
+[8]Youxi Wu, Qian Hu, Yan Li, Lei Guo, Xingquan Zhu, Xindong Wu. OPP-Miner: Order-preserving sequential pattern mining for time series, IEEE Transactions on Cybernetics, DOI: 10.1109/TCYB.2022.3169327                  
 
 ###2021 年
 
