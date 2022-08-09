@@ -54,6 +54,9 @@
 
 [9]Youxi Wu, Mingjie Chen, Yan Li, Jing Liu, Zhao Li, Jinyan Li, Xindong Wu. ONP-Miner: One-off Negative Sequential Pattern Mining. ACM Transactions on Knowledge Discovery in Data. doi: 10.1145/3549940
 
+[10] Nawaz, M.S., Fournier-Viger, P., Yun, U., Wu, Y., Song, W. Mining High Utility Itemsets with Hill Climbing and Simulated Annealing. ACM Transactions on Management Information Systems, vol. 13, no. 1, pp. 4, 2022.
+
+
 ###2021 年
 
 
@@ -76,16 +79,14 @@
 [7]Yan Li, Lei Yu, Jing Liu, Lei Guo, Youxi Wu*, Xindong Wu. NetDPO: (delta, gamma)-approximate pattern matching with gap constraints under one-off condition. Applied Intelligence. 2021, DOI: 10.1007/s10489-021-03000-2
 
 
+[8] Wu, Y., Geng, M., Li, Y., Guo, L., Fournier-Viger. P. (2021). NetHAPP: High Average Utility Periodic Gapped Sequential Pattern Mining. In the book “Periodic Pattern Mining: Theory, Algorithms and Application”, Springer, to appear.
 
-Wu, Y., Geng, M., Li, Y., Guo, L., Fournier-Viger. P. (2021). NetHAPP: High Average Utility Periodic Gapped Sequential Pattern Mining. In the book “Periodic Pattern Mining: Theory, Algorithms and Application”, Springer, to appear.
-
-Hossain, M., Wu, Y., Fournier-Viger, P., Li, Z., Guo, L, Li, Y. (2021). HSNP-Miner: High Utility Self-Adaptive Nonoverlapping Pattern Mining. Proc. 12th IEEE Conference on Big Knowledge, IEEE, 8 pages
+[9]Hossain, M., Wu, Y., Fournier-Viger, P., Li, Z., Guo, L, Li, Y. (2021). HSNP-Miner: High Utility Self-Adaptive Nonoverlapping Pattern Mining. 2021 IEEE International Conference on Big Knowledge (ICBK). IEEE, 2021: 70-77.
 
 Fournier-Viger, P., Wu. Y., Dinh, D.-T., Song, W., Lin, J.C.W. (2021). Discovering Periodic High Utility Itemsets in a Discrete Sequence. In the book “Periodic Pattern Mining: Theory, Algorithms and Application”, Springer, to appear.
 
 Fournier-Viger, P., Chi, T. T., Wu, Y., Qu, J.-F., Lin, J. C.W., Li, Z. (2021). Finding Periodic Patterns in Multiple Discrete Sequences. In the book “Periodic Pattern Mining: Theory, Algorithms and Application”, Springer, to appear.
 
-Nawaz, M.S., Fournier-Viger, P., Yun, U., Wu, Y., Song, W. (2021). Mining High Utility Itemsets with Hill Climbing and Simulated Annealing. ACM Transactions on Management Information Systems (to appear)
 
 Chen, Y., Fournier-Viger, P., Nouioua, F., Wu, Y. (2021). Mining Partially-Ordered Episode Rules with the Head Support. Proc. 23rd Intern. Conf. on Data Warehousing and Knowledge Discovery (DAWAK 2021), Springer, LNCS, 7 pages
 
