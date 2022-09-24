@@ -57,6 +57,12 @@
 [10] Nawaz, M.S., Fournier-Viger, P., Yun, U., Wu, Y., Song, W. Mining High Utility Itemsets with Hill Climbing and Simulated Annealing. ACM Transactions on Management Information Systems, vol. 13, no. 1, pp. 4, 2022.
 
 
+[5]Yuehua Wang, Youxi Wu, Yan Li, Fang Yao, Philippe Fournier-Viger, Xindong Wu. Self-adaptive nonoverlapping sequential pattern mining. Applied Intelligence.  52, pages6646–6661 (2022) 2021, DOI: 10.1007/s10489-021-02763-y
+
+[6]Yan Li, Shuai Zhang, Lei Guo, Jing Liu, Youxi Wu*, Xindong Wu. NetNMSP: Nonoverlapping maximal sequential pattern mining. Applied Intelligence.  52, pages9861–9884 (2022)   2021, DOI: 10.1007/s10489-021-02912-3
+
+[7]Yan Li, Lei Yu, Jing Liu, Lei Guo, Youxi Wu*, Xindong Wu. NetDPO: (delta, gamma)-approximate pattern matching with gap constraints under one-off condition. Applied Intelligence.  52, pages12155–12174 (2022) 2021, DOI: 10.1007/s10489-021-03000-2
+
 ###2021 年
 
 
@@ -71,12 +77,6 @@
 
 [4]Shuhui Cheng, Youxi Wu, Yan Li, Fang Yao, Fan Min. TWD-SFNN: Three-way decisions with a single hidden layer feedforward neural network. Information Sciences. 2021, 579, 15–32.  
 
-
-[5]Yuehua Wang, Youxi Wu, Yan Li, Fang Yao, Philippe Fournier-Viger, Xindong Wu. Self-adaptive nonoverlapping sequential pattern mining. Applied Intelligence. 2021, DOI: 10.1007/s10489-021-02763-y
-
-[6]Yan Li, Shuai Zhang, Lei Guo, Jing Liu, Youxi Wu*, Xindong Wu. NetNMSP: Nonoverlapping maximal sequential pattern mining. Applied Intelligence.  52, pages9861–9884 (2022)  2021, DOI: 10.1007/s10489-021-02912-3
-
-[7]Yan Li, Lei Yu, Jing Liu, Lei Guo, Youxi Wu*, Xindong Wu. NetDPO: (delta, gamma)-approximate pattern matching with gap constraints under one-off condition. Applied Intelligence. 2021, DOI: 10.1007/s10489-021-03000-2
 
 
 [8] Wu, Y., Geng, M., Li, Y., Guo, L., Fournier-Viger. P. (2021). NetHAPP: High Average Utility Periodic Gapped Sequential Pattern Mining. In the book “Periodic Pattern Mining: Theory, Algorithms and Application”, Springer, to appear.
