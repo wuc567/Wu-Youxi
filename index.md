@@ -74,7 +74,7 @@
 
 [5]Yuehua Wang, Youxi Wu, Yan Li, Fang Yao, Philippe Fournier-Viger, Xindong Wu. Self-adaptive nonoverlapping sequential pattern mining. Applied Intelligence. 2021, DOI: 10.1007/s10489-021-02763-y
 
-[6]Yan Li, Shuai Zhang, Lei Guo, Jing Liu, Youxi Wu*, Xindong Wu. NetNMSP: Nonoverlapping maximal sequential pattern mining. Applied Intelligence. 2021, DOI: 10.1007/s10489-021-02912-3
+[6]Yan Li, Shuai Zhang, Lei Guo, Jing Liu, Youxi Wu*, Xindong Wu. NetNMSP: Nonoverlapping maximal sequential pattern mining. Applied Intelligence.  52, pages9861–9884 (2022)  2021, DOI: 10.1007/s10489-021-02912-3
 
 [7]Yan Li, Lei Yu, Jing Liu, Lei Guo, Youxi Wu*, Xindong Wu. NetDPO: (delta, gamma)-approximate pattern matching with gap constraints under one-off condition. Applied Intelligence. 2021, DOI: 10.1007/s10489-021-03000-2
 
