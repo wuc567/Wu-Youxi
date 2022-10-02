@@ -6,7 +6,7 @@
 
 ### 个人简介
 
-**[武优西：男，河北工业大学，博士，教授，博士生导师。](http://ai.hebut.edu.cn/staff/teachers/11037.html)**中国计算机学会高级会员；中国自动化学会会员；IEEE会员；美国佛蒙特大学和莱特州立大学访问学者（2009.8-2010.8, UVM; 2015.10-2016.10, WSU）。AI专委会委员、DB专委会委员、计算机应用专委会常委。
+**[武优西：男，河北工业大学，博士，教授，博士生导师。](http://ai.hebut.edu.cn/staff/teachers/11037.html)**中国计算机学会杰出会员；中国自动化学会会员；IEEE会员；美国佛蒙特大学和莱特州立大学访问学者（2009.8-2010.8, UVM; 2015.10-2016.10, WSU）。AI专委会委员、DB专委会委员、计算机应用专委会常委。
 
 联系方式： wuc567 at 163 dot com
 
@@ -59,9 +59,9 @@
 
 [5]Yuehua Wang, Youxi Wu, Yan Li, Fang Yao, Philippe Fournier-Viger, Xindong Wu. Self-adaptive nonoverlapping sequential pattern mining. Applied Intelligence.  52, pages6646–6661 (2022) 2021, DOI: 10.1007/s10489-021-02763-y
 
-[6]Yan Li, Shuai Zhang, Lei Guo, Jing Liu, Youxi Wu*, Xindong Wu. NetNMSP: Nonoverlapping maximal sequential pattern mining. Applied Intelligence.  52, pages9861–9884 (2022)   2021, DOI: 10.1007/s10489-021-02912-3
+[6]Yan Li, Shuai Zhang, Lei Guo, Jing Liu, Youxi Wu*, Xindong Wu. NetNMSP: Nonoverlapping maximal sequential pattern mining. Applied Intelligence.  52, pages, 9861–9884 (2022)   2021, DOI: 10.1007/s10489-021-02912-3
 
-[7]Yan Li, Lei Yu, Jing Liu, Lei Guo, Youxi Wu*, Xindong Wu. NetDPO: (delta, gamma)-approximate pattern matching with gap constraints under one-off condition. Applied Intelligence.  52, pages12155–12174 (2022) 2021, DOI: 10.1007/s10489-021-03000-2
+[7]Yan Li, Lei Yu, Jing Liu, Lei Guo, Youxi Wu*, Xindong Wu. NetDPO: (delta, gamma)-approximate pattern matching with gap constraints under one-off condition. Applied Intelligence.  52, pages, 12155–12174 (2022) 2021, DOI: 10.1007/s10489-021-03000-2
 
 ###2021 年
 
