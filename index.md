@@ -57,7 +57,7 @@
 [10] Nawaz, M.S., Fournier-Viger, P., Yun, U., Wu, Y., Song, W. Mining High Utility Itemsets with Hill Climbing and Simulated Annealing. ACM Transactions on Management Information Systems, vol. 13, no. 1, pp. 4, 2022.
 
 
-[5]Yuehua Wang, Youxi Wu, Yan Li, Fang Yao, Philippe Fournier-Viger, Xindong Wu. Self-adaptive nonoverlapping sequential pattern mining. Applied Intelligence.  52, pages6646–6661 (2022) 2021, DOI: 10.1007/s10489-021-02763-y  PDF, C++ or PYTHON codes:   https://github.com/wuc567/Pattern-Mining/tree/master/NTP-Miner
+[5]Yuehua Wang, Youxi Wu, Yan Li, Fang Yao, Philippe Fournier-Viger, Xindong Wu. Self-adaptive nonoverlapping sequential pattern mining. Applied Intelligence.  52, pages6646–6661 (2022) 2021, DOI: 10.1007/s10489-021-02763-y  PDF, C++ or PYTHON codes:   [https://github.com/wuc567/Pattern-Mining/tree/master/SNTP-Miner](https://github.com/wuc567/Pattern-Mining/tree/master/SNP-Miner)
 
 [6]Yan Li, Shuai Zhang, Lei Guo, Jing Liu, Youxi Wu*, Xindong Wu. NetNMSP: Nonoverlapping maximal sequential pattern mining. Applied Intelligence.  52, pages, 9861–9884 (2022)   2021, DOI: 10.1007/s10489-021-02912-3
 
