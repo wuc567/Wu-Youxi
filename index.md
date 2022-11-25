@@ -34,13 +34,13 @@
 
 ###2022 年
 
-[1]Youxi Wu, Lanfang Luo,  Yan Li, Lei Guo, Philippe Fournier-Viger, Xingquan Zhu, Xindong Wu. NTP-Miner: Nonoverlapping three-way sequential pattern mining. ACM Transactions on Knowledge Discovery from Data.  2022. 16, 3, Article 51.
+[1]Youxi Wu, Lanfang Luo,  Yan Li, Lei Guo, Philippe Fournier-Viger, Xingquan Zhu, Xindong Wu. NTP-Miner: Nonoverlapping three-way sequential pattern mining. ACM Transactions on Knowledge Discovery from Data.  2022. 16, 3, Article 51.  PDF, C++ codes: https://github.com/wuc567/Pattern-Mining/tree/master/NTP-Miner
 
 [2]Youxi  Wu, Yuehua Wang, Yan Li, Xingquan Zhu, Xindong Wu,  Top-k self-adaptive contrast sequential pattern mining. IEEE Transactions on Cybernetics. DOI: 10.1109/TCYB.2021.3082114
 
 [3]Youxi Wu, Zhu Yuan, Yan Li, Lei Guo, Philippe Fournier-Viger, and Xindong Wu. NWP-Miner: Nonoverlapping weak-gap sequential pattern mining. Information Sciences. 2022.  588, 124-141.  https://doi.org/10.1016/j.ins.2021.12.064
 
-[4]Youxi Wu, Xiaohui Wang, Yan Li, Lei Guo, Zhao Li, Ji Zhang, Xindong Wu. OWSP-Miner: Self-adaptive one-off weak-gap strong pattern mining. ACM Transactions on Management Information Systems. 2022, 13, 3, Article 25.          DOI: 10.1145/3476247
+[4]Youxi Wu, Xiaohui Wang, Yan Li, Lei Guo, Zhao Li, Ji Zhang, Xindong Wu. OWSP-Miner: Self-adaptive one-off weak-gap strong pattern mining. ACM Transactions on Management Information Systems. 2022, 13, 3, Article 25.          DOI: 10.1145/3476247,  PDF, C++ or PYTHON codes: https://github.com/wuc567/Pattern-Mining/tree/master/OWSP-Miner
 
 [5]Youxi Wu, Bojing Jian, Yan Li, He Jiang, Xingdong Wu. NetNDP: Nonoverlapping (delta, gamma)-approximate pattern matching. Intelligent Data Analysis. DOI: 10.3233/IDA-216325
 
@@ -57,7 +57,7 @@
 [10] Nawaz, M.S., Fournier-Viger, P., Yun, U., Wu, Y., Song, W. Mining High Utility Itemsets with Hill Climbing and Simulated Annealing. ACM Transactions on Management Information Systems, vol. 13, no. 1, pp. 4, 2022.
 
 
-[5]Yuehua Wang, Youxi Wu, Yan Li, Fang Yao, Philippe Fournier-Viger, Xindong Wu. Self-adaptive nonoverlapping sequential pattern mining. Applied Intelligence.  52, pages6646–6661 (2022) 2021, DOI: 10.1007/s10489-021-02763-y
+[5]Yuehua Wang, Youxi Wu, Yan Li, Fang Yao, Philippe Fournier-Viger, Xindong Wu. Self-adaptive nonoverlapping sequential pattern mining. Applied Intelligence.  52, pages6646–6661 (2022) 2021, DOI: 10.1007/s10489-021-02763-y  PDF, C++ or PYTHON codes:   https://github.com/wuc567/Pattern-Mining/tree/master/NTP-Miner
 
 [6]Yan Li, Shuai Zhang, Lei Guo, Jing Liu, Youxi Wu*, Xindong Wu. NetNMSP: Nonoverlapping maximal sequential pattern mining. Applied Intelligence.  52, pages, 9861–9884 (2022)   2021, DOI: 10.1007/s10489-021-02912-3
 
@@ -67,12 +67,12 @@
 
 
 
-[1]Youxi Wu, Rong Lei, Yan Li, Lei Guo, Xindong Wu. HAOP-Miner: Self-adaptive high-average utility one-off sequential pattern mining. Expert Systems With Applications. 2021, 184, 115449 
+[1]Youxi Wu, Rong Lei, Yan Li, Lei Guo, Xindong Wu. HAOP-Miner: Self-adaptive high-average utility one-off sequential pattern mining. Expert Systems With Applications. 2021, 184, 115449, PDF, C++ or PYTHON codes: https://github.com/wuc567/Pattern-Mining/tree/master/HAOP-Miner
 
 [2]Youxi Wu, Xi Liu, Wenjie Yan, Lei Guo, Xindong Wu. Efficient algorithm for solving strict pattern matching under nonoverlapping condition. Journal of Software, 2021, 32(11): 3331-3350. DOI: 10.13328/j.cnki.jos.006054  
 
 
-[3]Youxi Wu, Meng Geng, Yan Li, Lei Guo, Zhao Li, Philippe Fournier-Viger, Xingquan Zhu, Xindong Wu. HANP-Miner: High average utility nonoverlapping sequential pattern mining. Knowledge-Based Systems. 2021. 229, 107361
+[3]Youxi Wu, Meng Geng, Yan Li, Lei Guo, Zhao Li, Philippe Fournier-Viger, Xingquan Zhu, Xindong Wu. HANP-Miner: High average utility nonoverlapping sequential pattern mining. Knowledge-Based Systems. 2021. 229, 107361, PDF,  C++ or PYTHON codes: https://github.com/wuc567/Pattern-Mining/tree/master/HANP-Miner
 
 
 [4]Shuhui Cheng, Youxi Wu, Yan Li, Fang Yao, Fan Min. TWD-SFNN: Three-way decisions with a single hidden layer feedforward neural network. Information Sciences. 2021, 579, 15–32.  
