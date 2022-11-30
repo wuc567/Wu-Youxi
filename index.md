@@ -32,36 +32,40 @@
 
 ### 论文
 
+2023年
+Youxi Wu , Xiaoqian Zhao , Yan Li , Lei Guo , Xingquan Zhu , Philippe Fournier-Viger , Xindong Wu.  OPR-Miner: Order-preserving rule mining for time series, IEEE Transactions on Knowledge and Data Engineering,  10.1109/TKDE.2022.3224963
+
+
 ###2022 年
 
-[1]Youxi Wu, Lanfang Luo,  Yan Li, Lei Guo, Philippe Fournier-Viger, Xingquan Zhu, Xindong Wu. NTP-Miner: Nonoverlapping three-way sequential pattern mining. ACM Transactions on Knowledge Discovery from Data.  2022. 16, 3, Article 51.  PDF, C++ codes: https://github.com/wuc567/Pattern-Mining/tree/master/NTP-Miner
+D[1]Youxi Wu, Lanfang Luo,  Yan Li, Lei Guo, Philippe Fournier-Viger, Xingquan Zhu, Xindong Wu. NTP-Miner: Nonoverlapping three-way sequential pattern mining. ACM Transactions on Knowledge Discovery from Data.  2022. 16, 3, Article 51.  PDF, C++ codes: https://github.com/wuc567/Pattern-Mining/tree/master/NTP-Miner
 
-[2]Youxi  Wu, Yuehua Wang, Yan Li, Xingquan Zhu, Xindong Wu,  Top-k self-adaptive contrast sequential pattern mining. IEEE Transactions on Cybernetics. DOI: 10.1109/TCYB.2021.3082114
+D[2]Youxi  Wu, Yuehua Wang, Yan Li, Xingquan Zhu, Xindong Wu,  Top-k self-adaptive contrast sequential pattern mining. IEEE Transactions on Cybernetics. DOI: 10.1109/TCYB.2021.3082114
 
-[3]Youxi Wu, Zhu Yuan, Yan Li, Lei Guo, Philippe Fournier-Viger, and Xindong Wu. NWP-Miner: Nonoverlapping weak-gap sequential pattern mining. Information Sciences. 2022.  588, 124-141.  https://doi.org/10.1016/j.ins.2021.12.064
+D[3]Youxi Wu, Zhu Yuan, Yan Li, Lei Guo, Philippe Fournier-Viger, and Xindong Wu. NWP-Miner: Nonoverlapping weak-gap sequential pattern mining. Information Sciences. 2022.  588, 124-141.  https://doi.org/10.1016/j.ins.2021.12.064
 
-[4]Youxi Wu, Xiaohui Wang, Yan Li, Lei Guo, Zhao Li, Ji Zhang, Xindong Wu. OWSP-Miner: Self-adaptive one-off weak-gap strong pattern mining. ACM Transactions on Management Information Systems. 2022, 13, 3, Article 25.          DOI: 10.1145/3476247,  PDF, C++ or PYTHON codes: https://github.com/wuc567/Pattern-Mining/tree/master/OWSP-Miner
+N[4]Youxi Wu, Xiaohui Wang, Yan Li, Lei Guo, Zhao Li, Ji Zhang, Xindong Wu. OWSP-Miner: Self-adaptive one-off weak-gap strong pattern mining. ACM Transactions on Management Information Systems. 2022, 13, 3, Article 25.          DOI: 10.1145/3476247,  PDF, C++ or PYTHON codes: https://github.com/wuc567/Pattern-Mining/tree/master/OWSP-Miner
 
-[5]Youxi Wu, Bojing Jian, Yan Li, He Jiang, Xingdong Wu. NetNDP: Nonoverlapping (delta, gamma)-approximate pattern matching. Intelligent Data Analysis. DOI: 10.3233/IDA-216325
+N[5]Youxi Wu, Bojing Jian, Yan Li, He Jiang, Xingdong Wu. NetNDP: Nonoverlapping (delta, gamma)-approximate pattern matching. Intelligent Data Analysis. DOI: 10.3233/IDA-216325
 
 
-[6]Pengfei Ma, Youxi Wu, Yan Li, Lei Guo, Zhao Li. DBC-Forest: Deep forest with binning confidence screening. Neurocomputing. 2022, 475, Pages 112-122.
+D[6]Pengfei Ma, Youxi Wu, Yan Li, Lei Guo, Zhao Li. DBC-Forest: Deep forest with binning confidence screening. Neurocomputing. 2022, 475, Pages 112-122.
                   DOI: 10.1016/j.neucom.2021.12.075
                   
-[7] Pengfei Ma, Youxi Wu, Yan Li, Lei Guo, He Jiang, Xingquan Zhu, Xindong Wu. HW-Forest: Deep forest with hashing screening and window screening. ACM Transactions on Knowledge Discovery from Data. 2022, 16, 6, 123. doi.org/10.1145/3532193
+N[7] Pengfei Ma, Youxi Wu, Yan Li, Lei Guo, He Jiang, Xingquan Zhu, Xindong Wu. HW-Forest: Deep forest with hashing screening and window screening. ACM Transactions on Knowledge Discovery from Data. 2022, 16, 6, 123. doi.org/10.1145/3532193
 
-[8]Youxi Wu, Qian Hu, Yan Li, Lei Guo, Xingquan Zhu, Xindong Wu. OPP-Miner: Order-preserving sequential pattern mining for time series, IEEE Transactions on Cybernetics, DOI: 10.1109/TCYB.2022.3169327                  
+N[8]Youxi Wu, Qian Hu, Yan Li, Lei Guo, Xingquan Zhu, Xindong Wu. OPP-Miner: Order-preserving sequential pattern mining for time series, IEEE Transactions on Cybernetics, DOI: 10.1109/TCYB.2022.3169327                  
 
-[9]Youxi Wu, Mingjie Chen, Yan Li, Jing Liu, Zhao Li, Jinyan Li, Xindong Wu. ONP-Miner: One-off Negative Sequential Pattern Mining. ACM Transactions on Knowledge Discovery in Data. doi: 10.1145/3549940
+N[9]Youxi Wu, Mingjie Chen, Yan Li, Jing Liu, Zhao Li, Jinyan Li, Xindong Wu. ONP-Miner: One-off Negative Sequential Pattern Mining. ACM Transactions on Knowledge Discovery in Data. doi: 10.1145/3549940
 
 [10] Nawaz, M.S., Fournier-Viger, P., Yun, U., Wu, Y., Song, W. Mining High Utility Itemsets with Hill Climbing and Simulated Annealing. ACM Transactions on Management Information Systems, vol. 13, no. 1, pp. 4, 2022.
 
 
-[5]Yuehua Wang, Youxi Wu, Yan Li, Fang Yao, Philippe Fournier-Viger, Xindong Wu. Self-adaptive nonoverlapping sequential pattern mining. Applied Intelligence.  52, pages6646–6661 (2022) 2021, DOI: 10.1007/s10489-021-02763-y  PDF, C++ or PYTHON codes:   [https://github.com/wuc567/Pattern-Mining/tree/master/SNTP-Miner](https://github.com/wuc567/Pattern-Mining/tree/master/SNP-Miner)
+D[5]Yuehua Wang, Youxi Wu, Yan Li, Fang Yao, Philippe Fournier-Viger, Xindong Wu. Self-adaptive nonoverlapping sequential pattern mining. Applied Intelligence.  52, pages6646–6661 (2022) 2021, DOI: 10.1007/s10489-021-02763-y  PDF, C++ or PYTHON codes:   [https://github.com/wuc567/Pattern-Mining/tree/master/SNTP-Miner](https://github.com/wuc567/Pattern-Mining/tree/master/SNP-Miner)
 
-[6]Yan Li, Shuai Zhang, Lei Guo, Jing Liu, Youxi Wu*, Xindong Wu. NetNMSP: Nonoverlapping maximal sequential pattern mining. Applied Intelligence.  52, pages, 9861–9884 (2022)   2021, DOI: 10.1007/s10489-021-02912-3
+D[6]Yan Li, Shuai Zhang, Lei Guo, Jing Liu, Youxi Wu*, Xindong Wu. NetNMSP: Nonoverlapping maximal sequential pattern mining. Applied Intelligence.  52, pages, 9861–9884 (2022)   2021, DOI: 10.1007/s10489-021-02912-3
 
-[7]Yan Li, Lei Yu, Jing Liu, Lei Guo, Youxi Wu*, Xindong Wu. NetDPO: (delta, gamma)-approximate pattern matching with gap constraints under one-off condition. Applied Intelligence.  52, pages, 12155–12174 (2022) 2021, DOI: 10.1007/s10489-021-03000-2
+D[7]Yan Li, Lei Yu, Jing Liu, Lei Guo, Youxi Wu*, Xindong Wu. NetDPO: (delta, gamma)-approximate pattern matching with gap constraints under one-off condition. Applied Intelligence.  52, pages, 12155–12174 (2022) 2021, DOI: 10.1007/s10489-021-03000-2
 
 ###2021 年
 
