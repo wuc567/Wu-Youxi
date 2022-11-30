@@ -33,7 +33,8 @@
 ### 论文
 
 ###2023年
-Youxi Wu , Xiaoqian Zhao , Yan Li , Lei Guo , Xingquan Zhu , Philippe Fournier-Viger , Xindong Wu.  OPR-Miner: Order-preserving rule mining for time series, IEEE Transactions on Knowledge and Data Engineering,  10.1109/TKDE.2022.3224963
+
+[1] Youxi Wu , Xiaoqian Zhao , Yan Li , Lei Guo , Xingquan Zhu , Philippe Fournier-Viger , Xindong Wu.  OPR-Miner: Order-preserving rule mining for time series, IEEE Transactions on Knowledge and Data Engineering,  10.1109/TKDE.2022.3224963
 
 
 ###2022 年
