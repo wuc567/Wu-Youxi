@@ -36,6 +36,8 @@
 
 [1] Youxi Wu , Xiaoqian Zhao , Yan Li , Lei Guo , Xingquan Zhu , Philippe Fournier-Viger , Xindong Wu.  OPR-Miner: Order-preserving rule mining for time series, IEEE Transactions on Knowledge and Data Engineering,  10.1109/TKDE.2022.3224963
 
+[2] Yan Li, Chang Zhang, Jie Li, Wei Song, Zhenlian Qi, Youxi Wu, Xindong Wu.  MCoR-Miner: Maximal co-occurrence nonoverlapping sequential rule mining, IEEE Transactions on Knowledge and Data Engineering, 10.1109/TKDE.2023.3241213 
+
 
 ###2022 年
 
