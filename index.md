@@ -61,8 +61,9 @@ N[8]Youxi Wu, Qian Hu, Yan Li, Lei Guo, Xingquan Zhu, Xindong Wu. OPP-Miner: Ord
 
 N[9]Youxi Wu, Mingjie Chen, Yan Li, Jing Liu, Zhao Li, Jinyan Li, Xindong Wu. ONP-Miner: One-off Negative Sequential Pattern Mining. ACM Transactions on Knowledge Discovery in Data. doi: 10.1145/3549940
 
-[10] Nawaz, M.S., Fournier-Viger, P., Yun, U., Wu, Y., Song, W. Mining High Utility Itemsets with Hill Climbing and Simulated Annealing. ACM Transactions on Management Information Systems, vol. 13, no. 1, pp. 4, 2022.
+[10] 	M. Saqib Nawaz, Philippe Fournier-Viger, Unil Yun, Youxi Wu, Wei Song. Mining High Utility Itemsets with Hill Climbing and Simulated Annealing.  ACM Transactions on Management Information Systems, vol. 13, no. 1, pp. 4, 2022.
 
+M. Saqib Nawaz, Philippe Fournier-Viger, Muhammad Zohaib Nawaz, Guoting Chen, Youxi Wu. MalSPM: Metamorphic malware behavior analysis and classification using sequential pattern mining. Comput. Secur. 118: 102741 (2022)
 
 D[5]Yuehua Wang, Youxi Wu, Yan Li, Fang Yao, Philippe Fournier-Viger, Xindong Wu. Self-adaptive nonoverlapping sequential pattern mining. Applied Intelligence.  52, pages 6646–6661 (2022) 2021, DOI: 10.1007/s10489-021-02763-y  **PDF, C++ or PYTHON codes:**   [https://github.com/wuc567/Pattern-Mining/tree/master/SNTP-Miner](https://github.com/wuc567/Pattern-Mining/tree/master/SNP-Miner)
 
