@@ -34,6 +34,8 @@
 
 ###2023年
 
+[1]Youxi Wu, Qian Hu, Yan Li, Lei Guo, Xingquan Zhu, Xindong Wu. OPP-Miner: Order-preserving sequential pattern mining for time series, IEEE Transactions on Cybernetics, 2023, 53 (5): 3288-3300. , DOI: 10.1109/TCYB.2022.3169327      
+
 [1] Youxi Wu , Xiaoqian Zhao , Yan Li , Lei Guo , Xingquan Zhu , Philippe Fournier-Viger , Xindong Wu.  OPR-Miner: Order-preserving rule mining for time series, IEEE Transactions on Knowledge and Data Engineering,  10.1109/TKDE.2022.3224963
 
 [2] Yan Li, Chang Zhang, Jie Li, Wei Song, Zhenlian Qi, Youxi Wu, Xindong Wu.  MCoR-Miner: Maximal co-occurrence nonoverlapping sequential rule mining, IEEE Transactions on Knowledge and Data Engineering, 10.1109/TKDE.2023.3241213 
@@ -57,7 +59,7 @@ D[6]Pengfei Ma, Youxi Wu, Yan Li, Lei Guo, Zhao Li. DBC-Forest: Deep forest with
                   
 N[7] Pengfei Ma, Youxi Wu, Yan Li, Lei Guo, He Jiang, Xingquan Zhu, Xindong Wu. HW-Forest: Deep forest with hashing screening and window screening. ACM Transactions on Knowledge Discovery from Data. 2022, 16(6): 123. doi.org/10.1145/3532193
 
-N[8]Youxi Wu, Qian Hu, Yan Li, Lei Guo, Xingquan Zhu, Xindong Wu. OPP-Miner: Order-preserving sequential pattern mining for time series, IEEE Transactions on Cybernetics, DOI: 10.1109/TCYB.2022.3169327                  
+            
 
 N[9]Youxi Wu, Mingjie Chen, Yan Li, Jing Liu, Zhao Li, Jinyan Li, Xindong Wu. ONP-Miner: One-off Negative Sequential Pattern Mining. ACM Transactions on Knowledge Discovery in Data. doi: 10.1145/3549940
 
