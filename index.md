@@ -39,9 +39,9 @@
 [2]Youxi Wu, Mingjie Chen, Yan Li, Jing Liu, Zhao Li, Jinyan Li, Xindong Wu. ONP-Miner: One-off negative sequential pattern mining. ACM Transactions on Knowledge Discovery in Data.  2023, 17(3): 37. doi: 10.1145/3549940
 
 
-[1] Youxi Wu, Xiaoqian Zhao, Yan Li, Lei Guo, Xingquan Zhu, Philippe Fournier-Viger, Xindong Wu.  OPR-Miner: Order-preserving rule mining for time series, IEEE Transactions on Knowledge and Data Engineering,  10.1109/TKDE.2022.3224963
+[3] Youxi Wu, Xiaoqian Zhao, Yan Li, Lei Guo, Xingquan Zhu, Philippe Fournier-Viger, Xindong Wu.  OPR-Miner: Order-preserving rule mining for time series, IEEE Transactions on Knowledge and Data Engineering,  10.1109/TKDE.2022.3224963
 
-[2] Yan Li, Chang Zhang, Jie Li, Wei Song, Zhenlian Qi, Youxi Wu, Xindong Wu.  MCoR-Miner: Maximal co-occurrence nonoverlapping sequential rule mining, IEEE Transactions on Knowledge and Data Engineering, 10.1109/TKDE.2023.3241213 
+[4] Yan Li, Chang Zhang, Jie Li, Wei Song, Zhenlian Qi, Youxi Wu, Xindong Wu.  MCoR-Miner: Maximal co-occurrence nonoverlapping sequential rule mining, IEEE Transactions on Knowledge and Data Engineering, 10.1109/TKDE.2023.3241213 
 
 
 ###2022 年
