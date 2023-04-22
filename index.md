@@ -55,22 +55,23 @@ D[3]Youxi Wu, Zhu Yuan, Yan Li, Lei Guo, Philippe Fournier-Viger, Xindong Wu. NW
 D[4]Pengfei Ma, Youxi Wu, Yan Li, Lei Guo, Zhao Li. DBC-Forest: Deep forest with binning confidence screening. Neurocomputing. 2022, 475, Pages 112-122.
                   DOI: 10.1016/j.neucom.2021.12.075
 
-
-N[5]Youxi Wu, Xiaohui Wang, Yan Li, Lei Guo, Zhao Li, Ji Zhang, Xindong Wu. OWSP-Miner: Self-adaptive one-off weak-gap strong pattern mining. ACM Transactions on Management Information Systems, 2022, 13(3): Article 25.          DOI: 10.1145/3476247,  **PDF, C++ or PYTHON codes:** https://github.com/wuc567/Pattern-Mining/tree/master/OWSP-Miner
-
-N[6]Youxi Wu, Bojing Jian, Yan Li, He Jiang, Xingdong Wu. NetNDP: Nonoverlapping (delta, gamma)-approximate pattern matching. Intelligent Data Analysis, 2022, 26(6): 1661-1682. DOI: 10.3233/IDA-216325
-
-N[7] Pengfei Ma, Youxi Wu, Yan Li, Lei Guo, He Jiang, Xingquan Zhu, Xindong Wu. HW-Forest: Deep forest with hashing screening and window screening. ACM Transactions on Knowledge Discovery from Data. 2022, 16(6): 123. doi.org/10.1145/3532193
-            
-[10] 	M. Saqib Nawaz, Philippe Fournier-Viger, Unil Yun, Youxi Wu, Wei Song. Mining High Utility Itemsets with Hill Climbing and Simulated Annealing.  ACM Transactions on Management Information Systems, vol. 13, no. 1, pp. 4, 2022.
-
-M. Saqib Nawaz, Philippe Fournier-Viger, Muhammad Zohaib Nawaz, Guoting Chen, Youxi Wu. MalSPM: Metamorphic malware behavior analysis and classification using sequential pattern mining. Comput. Secur. 118: 102741 (2022)
-
 D[5]Yuehua Wang, Youxi Wu, Yan Li, Fang Yao, Philippe Fournier-Viger, Xindong Wu. Self-adaptive nonoverlapping sequential pattern mining. Applied Intelligence.  52, pages 6646–6661 (2022) 2021, DOI: 10.1007/s10489-021-02763-y  **PDF, C++ or PYTHON codes:**   [https://github.com/wuc567/Pattern-Mining/tree/master/SNTP-Miner](https://github.com/wuc567/Pattern-Mining/tree/master/SNP-Miner)
 
-D[6]Yan Li, Shuai Zhang, Lei Guo, Jing Liu, Youxi Wu*, Xindong Wu. NetNMSP: Nonoverlapping maximal sequential pattern mining. Applied Intelligence.  52 (9): 9861–9884 (2022)   2021, DOI: 10.1007/s10489-021-02912-3
+D[6]Yan Li, Shuai Zhang, Lei Guo, Jing Liu, Youxi Wu*, Xindong Wu. NetNMSP: Nonoverlapping maximal sequential pattern mining. Applied Intelligence, 2022, 52 (9): 9861–9884.  DOI: 10.1007/s10489-021-02912-3
 
-D[7]Yan Li, Lei Yu, Jing Liu, Lei Guo, Youxi Wu*, Xindong Wu. NetDPO: (delta, gamma)-approximate pattern matching with gap constraints under one-off condition. Applied Intelligence.  52(11): 12155-12174 (2022).   2021, DOI: 10.1007/s10489-021-03000-2
+D[7]Yan Li, Lei Yu, Jing Liu, Lei Guo, Youxi Wu*, Xindong Wu. NetDPO: (delta, gamma)-approximate pattern matching with gap constraints under one-off condition. Applied Intelligence, 2022, 52(11): 12155-12174.  DOI: 10.1007/s10489-021-03000-2
+
+N[8]Youxi Wu, Xiaohui Wang, Yan Li, Lei Guo, Zhao Li, Ji Zhang, Xindong Wu. OWSP-Miner: Self-adaptive one-off weak-gap strong pattern mining. ACM Transactions on Management Information Systems, 2022, 13(3): Article 25.          DOI: 10.1145/3476247,  **PDF, C++ or PYTHON codes:** https://github.com/wuc567/Pattern-Mining/tree/master/OWSP-Miner
+
+N[9]Youxi Wu, Bojing Jian, Yan Li, He Jiang, Xingdong Wu. NetNDP: Nonoverlapping (delta, gamma)-approximate pattern matching. Intelligent Data Analysis, 2022, 26(6): 1661-1682. DOI: 10.3233/IDA-216325
+
+N[10] Pengfei Ma, Youxi Wu, Yan Li, Lei Guo, He Jiang, Xingquan Zhu, Xindong Wu. HW-Forest: Deep forest with hashing screening and window screening. ACM Transactions on Knowledge Discovery from Data. 2022, 16(6): 123. doi.org/10.1145/3532193
+            
+[11] 	M. Saqib Nawaz, Philippe Fournier-Viger, Unil Yun, Youxi Wu, Wei Song. Mining high utility itemsets with hill climbing and simulated annealing. ACM Transactions on Management Information Systems, 2022, 13(1): 4, 2022.
+
+[12] M. Saqib Nawaz, Philippe Fournier-Viger, Muhammad Zohaib Nawaz, Guoting Chen, Youxi Wu. MalSPM: Metamorphic malware behavior analysis and classification using sequential pattern mining. Comput. Secur. 118: 102741 (2022)
+
+
 
 ###2021 年
 
@@ -78,8 +79,8 @@ D[7]Yan Li, Lei Yu, Jing Liu, Lei Guo, Youxi Wu*, Xindong Wu. NetDPO: (delta, ga
 
 [1]Youxi Wu, Rong Lei, Yan Li, Lei Guo, Xindong Wu. HAOP-Miner: Self-adaptive high-average utility one-off sequential pattern mining. Expert Systems With Applications. 2021, 184, 115449, **PDF, C++ or PYTHON codes:** https://github.com/wuc567/Pattern-Mining/tree/master/HAOP-Miner
 
-[2]Youxi Wu, Xi Liu, Wenjie Yan, Lei Guo, Xindong Wu. Efficient algorithm for solving strict pattern matching under nonoverlapping condition. Journal of Software, 2021, 32(11): 3331-3350. DOI: 10.13328/j.cnki.jos.006054  
-
+[2]武优西, 刘茜, 闫文杰, 郭磊, 吴信东. 无重叠条件严格模式匹配的高效求解算法. 软件学报, 2021, 32(11): 3331-3350. DOI: 10.13328/j.cnki.jos.006054  
+武优西, 刘茜, 闫文杰, 郭磊, 吴信东. 无重叠条件严格模式匹配的高效求解算法. 软件学报， ([pdf](https://github.com/wuc567/papers/blob/master/1%20jf012-2-%E5%AE%9A%E7%A8%BF.pdf))  [摘要与数据及全部算法](https://github.com/wuc567/Pattern-Matching/tree/master/NetBack)
 
 [3]Youxi Wu, Meng Geng, Yan Li, Lei Guo, Zhao Li, Philippe Fournier-Viger, Xingquan Zhu, Xindong Wu. HANP-Miner: High average utility nonoverlapping sequential pattern mining. Knowledge-Based Systems. 2021. 229, 107361, **PDF,  C++ or PYTHON codes:** https://github.com/wuc567/Pattern-Mining/tree/master/HANP-Miner
 
@@ -88,9 +89,9 @@ D[7]Yan Li, Lei Yu, Jing Liu, Lei Guo, Youxi Wu*, Xindong Wu. NetDPO: (delta, ga
 
 
 
-[8] Wu, Y., Geng, M., Li, Y., Guo, L., Fournier-Viger. P. (2021). NetHAPP: High Average Utility Periodic Gapped Sequential Pattern Mining. In the book “Periodic Pattern Mining: Theory, Algorithms and Application”, Springer, to appear.
+[5] Wu, Y., Geng, M., Li, Y., Guo, L., Fournier-Viger. P. (2021). NetHAPP: High average utility periodic gapped sequential pattern mining. In the book “Periodic Pattern Mining: Theory, Algorithms and Application”, Springer, to appear.
 
-[9]Hossain, M., Wu, Y., Fournier-Viger, P., Li, Z., Guo, L, Li, Y. (2021). HSNP-Miner: High Utility Self-Adaptive Nonoverlapping Pattern Mining. 2021 IEEE International Conference on Big Knowledge (ICBK). IEEE, 2021: 70-77.
+[6]Hossain, M., Wu, Y., Fournier-Viger, P., Li, Z., Guo, L, Li, Y. (2021). HSNP-Miner: High utility self-adaptive nonoverlapping pattern mining. 2021 IEEE International Conference on Big Knowledge (ICBK). IEEE, 2021: 70-77.
 
 Fournier-Viger, P., Wu. Y., Dinh, D.-T., Song, W., Lin, J.C.W. (2021). Discovering Periodic High Utility Itemsets in a Discrete Sequence. In the book “Periodic Pattern Mining: Theory, Algorithms and Application”, Springer, to appear.
 
