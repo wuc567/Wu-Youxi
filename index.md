@@ -34,14 +34,15 @@
 
 ###2023年
 
-[1]Youxi Wu, Qian Hu, Yan Li, Lei Guo, Xingquan Zhu, Xindong Wu. OPP-Miner: Order-preserving sequential pattern mining for time series, IEEE Transactions on Cybernetics, 2023, 53 (5): 3288-3300. , DOI: 10.1109/TCYB.2022.3169327      
+[1] Youxi Wu, Qian Hu, Yan Li, Lei Guo, Xingquan Zhu, Xindong Wu. OPP-Miner: Order-preserving sequential pattern mining for time series. IEEE Transactions on Cybernetics, 2023, 53 (5): 3288-3300. , DOI: 10.1109/TCYB.2022.3169327      
 
-[2]Youxi Wu, Mingjie Chen, Yan Li, Jing Liu, Zhao Li, Jinyan Li, Xindong Wu. ONP-Miner: One-off negative sequential pattern mining. ACM Transactions on Knowledge Discovery in Data.  2023, 17(3): 37. doi: 10.1145/3549940
+[2] Youxi Wu, Mingjie Chen, Yan Li, Jing Liu, Zhao Li, Jinyan Li, Xindong Wu. ONP-Miner: One-off negative sequential pattern mining. ACM Transactions on Knowledge Discovery in Data.  2023, 17(3): 37. doi: 10.1145/3549940
 
+[3] Youxi Wu, Shuhui Cheng, Yan Li, Rongjie Lv, Fan Min. STWD-SFNN: Sequential three-way decisions with a single hidden layer feedforward neural network. Information Sciences, 2023, 632: 299-323. 
 
-[3] Youxi Wu, Xiaoqian Zhao, Yan Li, Lei Guo, Xingquan Zhu, Philippe Fournier-Viger, Xindong Wu.  OPR-Miner: Order-preserving rule mining for time series, IEEE Transactions on Knowledge and Data Engineering,  10.1109/TKDE.2022.3224963
+[4] Youxi Wu, Xiaoqian Zhao, Yan Li, Lei Guo, Xingquan Zhu, Philippe Fournier-Viger, Xindong Wu.  OPR-Miner: Order-preserving rule mining for time series. IEEE Transactions on Knowledge and Data Engineering,  10.1109/TKDE.2022.3224963
 
-[4] Yan Li, Chang Zhang, Jie Li, Wei Song, Zhenlian Qi, Youxi Wu, Xindong Wu.  MCoR-Miner: Maximal co-occurrence nonoverlapping sequential rule mining, IEEE Transactions on Knowledge and Data Engineering, 10.1109/TKDE.2023.3241213 
+[5] Yan Li, Chang Zhang, Jie Li, Wei Song, Zhenlian Qi, Youxi Wu, Xindong Wu.  MCoR-Miner: Maximal co-occurrence nonoverlapping sequential rule mining. IEEE Transactions on Knowledge and Data Engineering, 10.1109/TKDE.2023.3241213 
 
 
 ###2022 年
