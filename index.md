@@ -144,7 +144,7 @@ Nouioua, M., Fournier-Viger, P., Gan, W., Wu, Y., Lin, J. C.-W., Nouioua, F. (20
 
 #### 2017 年
 
-[1] Youxi Wu, Cong Shen, He Jiang, Xindong Wu. Strict pattern matching under non-overlapping condition. Science China Information Sciences. 2017, 60 (1):012101:1-16.   Read Online ([pdf](https://github.com/wuc567/papers/blob/master/5%20%202017%20scis.pdf))  [(Source codes)](https://github.com/wuc567/Pattern-Matching/tree/master/NETLAP-Best)
+[1] Youxi Wu, Cong Shen, He Jiang, Xindong Wu. Strict pattern matching under non-overlapping condition. Science China Information Sciences. 2017, 60 (1):012101:1-16.   Read Online ([pdf](https://github.com/wuc567/papers/blob/master/05%20%202017%20scis.pdf))  [(Source codes)](https://github.com/wuc567/Pattern-Matching/tree/master/NETLAP-Best)
 
 [2] 武优西，周坤，刘靖宇，江贺，吴信东. 周期性一般间隙约束的序列模式挖掘.  计算机学报. 2017, 40(6): 1338-1352. (PDF) (Source codes)
 
