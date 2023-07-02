@@ -1,4 +1,4 @@
-![image](https://github.com/wuc567/Wu-Youxi/assets/50281948/65e2db28-457f-4100-85d9-29e9083492b9)## Welcome to Youxi Wu's GitHub Pages
+## Welcome to Youxi Wu's GitHub Pages
 
 <!-- You can use the [editor on GitHub](https://github.com/wuc567/hello-world/edit/master/index.md) to maintain and preview the content for your website in Markdown files. -->
 
