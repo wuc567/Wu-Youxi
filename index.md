@@ -1,4 +1,4 @@
-## Welcome to Youxi Wu's GitHub Pages
+![image](https://github.com/wuc567/Wu-Youxi/assets/50281948/65e2db28-457f-4100-85d9-29e9083492b9)## Welcome to Youxi Wu's GitHub Pages
 
 <!-- You can use the [editor on GitHub](https://github.com/wuc567/hello-world/edit/master/index.md) to maintain and preview the content for your website in Markdown files. -->
 
@@ -12,17 +12,18 @@
 
 **目前主持国家自然基金面上项目2项。**此外，先后主持河北省自然科学基金项目、河北省科学技术研究与发展指导计划项目、河北省教育厅重点项目等项目，主要研究兴趣为数据挖掘、智能计算（模式匹配或串匹配）和机器学习。第一作者或通信作者或合作作者在SCI一区、二区或知名SCI期刊以及一级学报发表论文及ICTAI等国际会议发表论文30余篇，这些期刊包括：**IEEE Transactions on** **Cybernetics、Science China Information Sciences、Journal of Computer Science and Technology**、IEEE Access、Neurocomputing、Applied Intelligence、Journal of Information Sciences、计算机学报、软件学报、通信学报；普通高等教育“十一五”国家级规划教材主编1本。
 
-先后主持获得天津市科技进步三等奖（2008年），参与获得河北省科技进步三等奖（1999年和2002年）和河北省教学成果二等奖（2000年）；河北省优秀硕士论文指导教师（2014年、2015年、2018年）。指导多名硕士研究生，**其中3名硕士研究生获评河北省优秀硕士学位论文:**
+先后主持获得天津市科技进步三等奖（2008年），参与获得河北省科技进步三等奖（1999年和2002年）和河北省教学成果二等奖（2000年）；河北省优秀硕士论文指导教师（2014年、2015年、2018年）。指导多名硕士研究生，**其中4名硕士研究生获评河北省优秀硕士学位论文:**
 **2014年孙 乐硕士获评河北省优秀硕士学位论文；**
 **2015年刘亚伟硕士获评河北省优秀硕士学位论文；**
-**2018年仝 瑶硕士获评河北省优秀硕士学位论文。**
+**2018年仝 瑶硕士获评河北省优秀硕士学位论文；**
+**2022年袁 朱硕士获评河北省优秀硕士学位论文；**
 
 **2016年有4名硕士研究生获得我校优秀硕士学位论文（该年全校共有50名同学获得）;**
 **2017年有1名硕士研究生获得我校优秀硕士学位论文；**
 
 #### 学术活动：
 
-* 国外期刊审稿人：IEEE Transactions on Knowledge and Data Engineering （TKDE）、 Knowledge and Information Systems(KAIS)、IEEE Transactions on Emerging Topics in Computational Intelligence、Knowledge-Based Systems(KBS)、 Future Generation Computer Systems(FGCS)、Journal of Information Science(JIS)、IEEE Access、Multimedia Tools and Applications (MTAP)、Advances in Artificial Neural Systems；
+* 国外期刊审稿人：TKDE、TCYB、TETCI 、Inf. Sci.、TBD、TIV、 IEEE Intelligent Systems、KAIS、ESWA、KBS、FGCS、EAAI、APIN、 Neucom、Computer&Security、JIS、TETA、CPE、Cognitive Computation、IEEE Access、Multimedia Tools and Applications (MTAP)、Advances in Artificial Neural Systems；
 * 国内期刊审稿人：计算机学报、自动化学报、通信学报、电子与信息学报、天津大学学报、系统工程理论与实践、计算机科学、计算机工程与科学等
 * 国际会议审稿人：Electromagnetic Field Computation (IEEE CEFC)、a Program Committee member of International Conference on Data Mining（ICDM）PhD forum 2015、International Joint Conference on Neural Networks （IJCNN）2016、ICNC-FSKD2018
 * 《计算机科学》期刊2017年度、2018年度“优秀审稿专家”（获评率<10%）
