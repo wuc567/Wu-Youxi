@@ -34,43 +34,43 @@
 
 ###2023年
 
-[1] Youxi Wu, Qian Hu, Yan Li, Lei Guo, Xingquan Zhu, Xindong Wu. OPP-Miner: Order-preserving sequential pattern mining for time series. IEEE Transactions on Cybernetics, 2023, 53 (5): 3288-3300. , DOI: 10.1109/TCYB.2022.3169327      
+[1] Youxi Wu, Qian Hu, Yan Li, Lei Guo, Xingquan Zhu, Xindong Wu. OPP-Miner: Order-preserving sequential pattern mining for time series. IEEE Transactions on Cybernetics, 2023, 53 (5): 3288-3300.  DOI: 10.1109/TCYB.2022.3169327      
 
-[2] Youxi Wu, Mingjie Chen, Yan Li, Jing Liu, Zhao Li, Jinyan Li, Xindong Wu. ONP-Miner: One-off negative sequential pattern mining. ACM Transactions on Knowledge Discovery in Data.  2023, 17(3): 37. doi: 10.1145/3549940
+[2] Youxi Wu, Mingjie Chen, Yan Li, Jing Liu, Zhao Li, Jinyan Li, Xindong Wu. ONP-Miner: One-off negative sequential pattern mining. ACM Transactions on Knowledge Discovery in Data, 2023, 17(3): 37. doi: 10.1145/3549940
 
 [3] Youxi Wu, Shuhui Cheng, Yan Li, Rongjie Lv, Fan Min. STWD-SFNN: Sequential three-way decisions with a single hidden layer feedforward neural network. Information Sciences, 2023, 632: 299-323. 
 
 [4] Youxi Wu, Xiaoqian Zhao, Yan Li, Lei Guo, Xingquan Zhu, Philippe Fournier-Viger, Xindong Wu.  OPR-Miner: Order-preserving rule mining for time series. IEEE Transactions on Knowledge and Data Engineering,  10.1109/TKDE.2022.3224963
 
-[5] Yan Li, Chang Zhang, Jie Li, Wei Song, Zhenlian Qi, Youxi Wu, Xindong Wu.  MCoR-Miner: Maximal co-occurrence nonoverlapping sequential rule mining. IEEE Transactions on Knowledge and Data Engineering, 2023, 35(9): 9531-9546 (2023)  doi: 10.1109/TKDE.2023.3241213 
+[5] Yan Li, Chang Zhang, Jie Li, Wei Song, Zhenlian Qi, Youxi Wu, Xindong Wu.  MCoR-Miner: Maximal co-occurrence nonoverlapping sequential rule mining. IEEE Transactions on Knowledge and Data Engineering, 2023, 35(9): 9531-9546.  doi: 10.1109/TKDE.2023.3241213 
 
 
 ###2022 年
 
-D[1]Youxi Wu, Lanfang Luo,  Yan Li, Lei Guo, Philippe Fournier-Viger, Xingquan Zhu, Xindong Wu. NTP-Miner: Nonoverlapping three-way sequential pattern mining. ACM Transactions on Knowledge Discovery from Data,  2022, 16(3): Article 51.  **PDF, C++ codes:** https://github.com/wuc567/Pattern-Mining/tree/master/NTP-Miner
+D[1]Youxi Wu, Lanfang Luo,  Yan Li, Lei Guo, Philippe Fournier-Viger, Xingquan Zhu, Xindong Wu. NTP-Miner: Nonoverlapping three-way sequential pattern mining. ACM Transactions on Knowledge Discovery from Data,  2022, 16(3): 51.  **PDF, C++ codes:** https://github.com/wuc567/Pattern-Mining/tree/master/NTP-Miner
 
-D[2]Youxi  Wu, Yuehua Wang, Yan Li, Xingquan Zhu, Xindong Wu.  Top-k self-adaptive contrast sequential pattern mining. IEEE Transactions on Cybernetics, 2022, 52(11): 11819-11833. 2022.   DOI: 10.1109/TCYB.2021.3082114
+D[2]Youxi Wu, Yuehua Wang, Yan Li, Xingquan Zhu, Xindong Wu.  Top-k self-adaptive contrast sequential pattern mining. IEEE Transactions on Cybernetics, 2022, 52(11): 11819-11833.   DOI: 10.1109/TCYB.2021.3082114
 
-D[3]Youxi Wu, Zhu Yuan, Yan Li, Lei Guo, Philippe Fournier-Viger, Xindong Wu. NWP-Miner: Nonoverlapping weak-gap sequential pattern mining. Information Sciences, 2022,  588, 124-141.  https://doi.org/10.1016/j.ins.2021.12.064
+D[3]Youxi Wu, Zhu Yuan, Yan Li, Lei Guo, Philippe Fournier-Viger, Xindong Wu. NWP-Miner: Nonoverlapping weak-gap sequential pattern mining. Information Sciences, 2022, 588: 124-141.  https://doi.org/10.1016/j.ins.2021.12.064
 
-D[4]Pengfei Ma, Youxi Wu, Yan Li, Lei Guo, Zhao Li. DBC-Forest: Deep forest with binning confidence screening. Neurocomputing. 2022, 475, Pages 112-122.
+D[4]Pengfei Ma, Youxi Wu, Yan Li, Lei Guo, Zhao Li. DBC-Forest: Deep forest with binning confidence screening. Neurocomputing. 2022, 475: 112-122.
                   DOI: 10.1016/j.neucom.2021.12.075
 
-D[5]Yuehua Wang, Youxi Wu, Yan Li, Fang Yao, Philippe Fournier-Viger, Xindong Wu. Self-adaptive nonoverlapping sequential pattern mining. Applied Intelligence.  52, pages 6646–6661 (2022) 2021, DOI: 10.1007/s10489-021-02763-y  **PDF, C++ or PYTHON codes:**   [https://github.com/wuc567/Pattern-Mining/tree/master/SNTP-Miner](https://github.com/wuc567/Pattern-Mining/tree/master/SNP-Miner)
+D[5]Yuehua Wang, Youxi Wu, Yan Li, Fang Yao, Philippe Fournier-Viger, Xindong Wu. Self-adaptive nonoverlapping sequential pattern mining. Applied Intelligence.  2021, 52(6): 6646–6661. , DOI: 10.1007/s10489-021-02763-y  **PDF, C++ or PYTHON codes:**   [https://github.com/wuc567/Pattern-Mining/tree/master/SNTP-Miner](https://github.com/wuc567/Pattern-Mining/tree/master/SNP-Miner)
 
 D[6]Yan Li, Shuai Zhang, Lei Guo, Jing Liu, Youxi Wu*, Xindong Wu. NetNMSP: Nonoverlapping maximal sequential pattern mining. Applied Intelligence, 2022, 52 (9): 9861–9884.  DOI: 10.1007/s10489-021-02912-3
 
 D[7]Yan Li, Lei Yu, Jing Liu, Lei Guo, Youxi Wu*, Xindong Wu. NetDPO: (delta, gamma)-approximate pattern matching with gap constraints under one-off condition. Applied Intelligence, 2022, 52(11): 12155-12174.  DOI: 10.1007/s10489-021-03000-2
 
-N[8]Youxi Wu, Xiaohui Wang, Yan Li, Lei Guo, Zhao Li, Ji Zhang, Xindong Wu. OWSP-Miner: Self-adaptive one-off weak-gap strong pattern mining. ACM Transactions on Management Information Systems, 2022, 13(3): Article 25.          DOI: 10.1145/3476247,  **PDF, C++ or PYTHON codes:** https://github.com/wuc567/Pattern-Mining/tree/master/OWSP-Miner
+N[8]Youxi Wu, Xiaohui Wang, Yan Li, Lei Guo, Zhao Li, Ji Zhang, Xindong Wu. OWSP-Miner: Self-adaptive one-off weak-gap strong pattern mining. ACM Transactions on Management Information Systems, 2022, 13(3): 25.          DOI: 10.1145/3476247,  **PDF, C++ or PYTHON codes:** https://github.com/wuc567/Pattern-Mining/tree/master/OWSP-Miner
 
 N[9]Youxi Wu, Bojing Jian, Yan Li, He Jiang, Xingdong Wu. NetNDP: Nonoverlapping (delta, gamma)-approximate pattern matching. Intelligent Data Analysis, 2022, 26(6): 1661-1682. DOI: 10.3233/IDA-216325
 
 N[10] Pengfei Ma, Youxi Wu, Yan Li, Lei Guo, He Jiang, Xingquan Zhu, Xindong Wu. HW-Forest: Deep forest with hashing screening and window screening. ACM Transactions on Knowledge Discovery from Data. 2022, 16(6): 123. doi.org/10.1145/3532193
             
-[11] 	M. Saqib Nawaz, Philippe Fournier-Viger, Unil Yun, Youxi Wu, Wei Song. Mining high utility itemsets with hill climbing and simulated annealing. ACM Transactions on Management Information Systems, 2022, 13(1): 4, 2022.
+[11] 	M. Saqib Nawaz, Philippe Fournier-Viger, Unil Yun, Youxi Wu, Wei Song. Mining high utility itemsets with hill climbing and simulated annealing. ACM Transactions on Management Information Systems, 2022, 13(1): 4.
 
-[12] M. Saqib Nawaz, Philippe Fournier-Viger, Muhammad Zohaib Nawaz, Guoting Chen, Youxi Wu. MalSPM: Metamorphic malware behavior analysis and classification using sequential pattern mining. Comput. Secur. 118: 102741 (2022)
+[12] M. Saqib Nawaz, Philippe Fournier-Viger, Muhammad Zohaib Nawaz, Guoting Chen, Youxi Wu. MalSPM: Metamorphic malware behavior analysis and classification using sequential pattern mining. Computer and Security, 2022, 118: 102741.
 
 
 
@@ -78,17 +78,14 @@ N[10] Pengfei Ma, Youxi Wu, Yan Li, Lei Guo, He Jiang, Xingquan Zhu, Xindong Wu.
 
 
 
-[1]Youxi Wu, Rong Lei, Yan Li, Lei Guo, Xindong Wu. HAOP-Miner: Self-adaptive high-average utility one-off sequential pattern mining. Expert Systems With Applications. 2021, 184, 115449, **PDF, C++ or PYTHON codes:** https://github.com/wuc567/Pattern-Mining/tree/master/HAOP-Miner
+[1]Youxi Wu, Rong Lei, Yan Li, Lei Guo, Xindong Wu. HAOP-Miner: Self-adaptive high-average utility one-off sequential pattern mining. Expert Systems With Applications. 2021, 184: 115449. **PDF, C++ or PYTHON codes:** https://github.com/wuc567/Pattern-Mining/tree/master/HAOP-Miner
 
 [2]武优西, 刘茜, 闫文杰, 郭磊, 吴信东. 无重叠条件严格模式匹配的高效求解算法. 软件学报, 2021, 32(11): 3331-3350. DOI: 10.13328/j.cnki.jos.006054  
 武优西, 刘茜, 闫文杰, 郭磊, 吴信东. 无重叠条件严格模式匹配的高效求解算法. 软件学报， ([pdf](https://github.com/wuc567/papers/blob/master/1%20jf012-2-%E5%AE%9A%E7%A8%BF.pdf))  [摘要与数据及全部算法](https://github.com/wuc567/Pattern-Matching/tree/master/NetBack)
 
-[3]Youxi Wu, Meng Geng, Yan Li, Lei Guo, Zhao Li, Philippe Fournier-Viger, Xingquan Zhu, Xindong Wu. HANP-Miner: High average utility nonoverlapping sequential pattern mining. Knowledge-Based Systems. 2021. 229, 107361, **PDF,  C++ or PYTHON codes:** https://github.com/wuc567/Pattern-Mining/tree/master/HANP-Miner
+[3]Youxi Wu, Meng Geng, Yan Li, Lei Guo, Zhao Li, Philippe Fournier-Viger, Xingquan Zhu, Xindong Wu. HANP-Miner: High average utility nonoverlapping sequential pattern mining. Knowledge-Based Systems, 2021, 229: 107361. **PDF,  C++ or PYTHON codes:** https://github.com/wuc567/Pattern-Mining/tree/master/HANP-Miner
 
-
-[4]Shuhui Cheng, Youxi Wu, Yan Li, Fang Yao, Fan Min. TWD-SFNN: Three-way decisions with a single hidden layer feedforward neural network. Information Sciences. 2021, 579, 15–32.  
-
-
+[4]Shuhui Cheng, Youxi Wu, Yan Li, Fang Yao, Fan Min. TWD-SFNN: Three-way decisions with a single hidden layer feedforward neural network. Information Sciences, 2021, 579: 15–32.  
 
 [5] Wu, Y., Geng, M., Li, Y., Guo, L., Fournier-Viger. P. (2021). NetHAPP: High average utility periodic gapped sequential pattern mining. In the book “Periodic Pattern Mining: Theory, Algorithms and Application”, Springer, to appear.
 
@@ -113,13 +110,13 @@ Nouioua, M., Fournier-Viger, P., Gan, W., Wu, Y., Lin, J. C.-W., Nouioua, F. (20
 
 #### 2020 年
 
-[1] Qiaoshuo Shi, Jinsong Shan, Wenjie Yan, Youxi Wu, Xindong Wu. NetNPG: Nonoverlapping pattern matching with general gap constraints[J]. Applied Intelligence, 2020, 50(6): 1832-1845. [DOI: 10.1007/s10489-019-01616-z](https://link.springer.com/article/10.1007/s10489-019-01616-z).  [摘要与数据及全部算法](https://github.com/wuc567/Pattern-Matching/tree/master/NetNPG)
+[1] Qiaoshuo Shi, Jinsong Shan, Wenjie Yan, Youxi Wu, Xindong Wu. NetNPG: Nonoverlapping pattern matching with general gap constraints. Applied Intelligence, 2020, 50(6): 1832-1845. [DOI: 10.1007/s10489-019-01616-z](https://link.springer.com/article/10.1007/s10489-019-01616-z).  [摘要与数据及全部算法](https://github.com/wuc567/Pattern-Matching/tree/master/NetNPG)
 
-[2] Youxi Wu, Changrui Zhu, Yan Li, Lei Guo, Xindong Wu. NetNCSP: Nonoverlapping closed sequential pattern mining. Knowledge-Based Systems. 2020, 196:105812. DOI: 10.1016/j.knosys.2020.105812. ([pdf](https://github.com/wuc567/papers/blob/master/08%20%202020%20kbs%201-s2.0-S0950705120301945-main.pdf))  [摘要与数据及全部算法](https://github.com/wuc567/Pattern-Mining/tree/master/NetNCSP)
+[2] Youxi Wu, Changrui Zhu, Yan Li, Lei Guo, Xindong Wu. NetNCSP: Nonoverlapping closed sequential pattern mining. Knowledge-Based Systems, 2020, 196: 105812. DOI: 10.1016/j.knosys.2020.105812. ([pdf](https://github.com/wuc567/papers/blob/master/08%20%202020%20kbs%201-s2.0-S0950705120301945-main.pdf))  [摘要与数据及全部算法](https://github.com/wuc567/Pattern-Mining/tree/master/NetNCSP)
 
 [3] 武优西, 刘茜, 闫文杰, 郭磊, 吴信东. 无重叠条件严格模式匹配的高效求解算法. 软件学报，2020. (已录用) ([pdf](https://github.com/wuc567/papers/blob/master/1%20jf012-2-%E5%AE%9A%E7%A8%BF.pdf))  [摘要与数据及全部算法](https://github.com/wuc567/Pattern-Matching/tree/master/NetBack)
 
-[4] Youxi Wu, Jinquan Fan, Yan Li, Lei Guo, Xindong Wu. NetDAP: (δ, γ)-Approximate pattern matching with length constraints[J]. Applied Intelligence, 2020, 50(11): 4094-4116. https://doi.org/10.1007/s10489-020-01778-1 ([pdf](https://github.com/wuc567/papers/blob/master/10%202020%20APIN-NetDAP.pdf)) [摘要与数据及全部算法](https://github.com/wuc567/Pattern-Matching/tree/master/NetDAP)
+[4] Youxi Wu, Jinquan Fan, Yan Li, Lei Guo, Xindong Wu. NetDAP: (δ, γ)-Approximate pattern matching with length constraints. Applied Intelligence, 2020, 50(11): 4094-4116. https://doi.org/10.1007/s10489-020-01778-1 ([pdf](https://github.com/wuc567/papers/blob/master/10%202020%20APIN-NetDAP.pdf)) [摘要与数据及全部算法](https://github.com/wuc567/Pattern-Matching/tree/master/NetDAP)
 
 #### 2019 年
 
@@ -127,7 +124,7 @@ Nouioua, M., Fournier-Viger, P., Gan, W., Wu, Y., Lin, J. C.-W., Nouioua, F. (20
 
 #### 2018 年
 
-[1] Youxi Wu, Yao Tong, Xingquan Zhu, Xindong Wu. NOSEP: Nonoverlapping Sequence Pattern Mining with Gap Constraints. IEEE Transactions on Cybernetics.  2018, 48(10): 2809-2822. ([pdf](https://github.com/wuc567/papers/blob/master/7%20%202018%20tcyb.pdf))  [摘要与数据及全部算法](https://github.com/wuc567/Pattern-Mining/tree/master/NOSEP)
+[1] Youxi Wu, Yao Tong, Xingquan Zhu, Xindong Wu. NOSEP: Nonoverlapping Sequence Pattern Mining with Gap Constraints. IEEE Transactions on Cybernetics, 2018, 48(10): 2809-2822. ([pdf](https://github.com/wuc567/papers/blob/master/7%20%202018%20tcyb.pdf))  [摘要与数据及全部算法](https://github.com/wuc567/Pattern-Mining/tree/master/NOSEP)
 
 [2] Youxi Wu, Shasha Li, Jingyu Liu, Lei Guo, Xindong Wu. NETASPNO: Approximate strict pattern matching under nonoverlapping condition. IEEE Access. 2018, 6(1): 24350-24361.([pdf](https://github.com/wuc567/papers/blob/master/6%20%202018%20IEEE%20ACCESS%20NETASP.pdf))  [摘要及全部算法](https://github.com/wuc567/Pattern-Matching/tree/master/NETASPNO)
 
@@ -135,19 +132,19 @@ Nouioua, M., Fournier-Viger, P., Gan, W., Wu, Y., Lin, J. C.-W., Nouioua, F. (20
 
 [5] Xin Chai, Dan Yang, Jingyu Liu, Yan Li, Youxi Wu. Top-k sequence pattern mining with non-overlapping condition. Filomat. 2018, 32(5): 1703-1710.
 
-[6] Wenjie Yan, Mengjing Cao, Youxi Wu*, Jun Zhang. Greedy Game Algorithms for Solving SET K-Cover Problem in HWSNs. IEEE Access, 2018, 6: 65604-65619.
+[6] Wenjie Yan, Mengjing Cao, Youxi Wu, Jun Zhang. Greedy Game Algorithms for Solving SET K-Cover Problem in HWSNs. IEEE Access, 2018, 6: 65604-65619.
 
-[7] Youxi Wu, Shengyuan Shi, Jingyu Liu*, Huaizhong Zhu. ADL-RAID: Energy-saving data layout for dynamic loads. Computer Systems Science & Engineering. 2018, 33(5): 309-316.
+[7] Youxi Wu, Shengyuan Shi, Jingyu Liu, Huaizhong Zhu. ADL-RAID: Energy-saving data layout for dynamic loads. Computer Systems Science & Engineering. 2018, 33(5): 309-316.
 
-[8] 宋亚青，武优西*，刘靖宇，李艳. 基于双向双区间标签实现k步可达性查询. 计算机科学. 2018,45(3):178-181
+[8] 宋亚青，武优西，刘靖宇，李艳. 基于双向双区间标签实现k步可达性查询. 计算机科学. 2018,45(3):178-181
 
-[9] 魏芹双，武优西*，刘靖宇，朱怀忠. 基于密度约束和间隙约束的对比模式挖掘. 计算机科学. 2018,45(4):253-257
+[9] 魏芹双，武优西，刘靖宇，朱怀忠. 基于密度约束和间隙约束的对比模式挖掘. 计算机科学. 2018,45(4):253-257
 
 #### 2017 年
 
-[1] Youxi Wu, Cong Shen, He Jiang, Xindong Wu. Strict pattern matching under non-overlapping condition. Science China Information Sciences. 2017, 60 (1):012101:1-16.   Read Online ([pdf](https://github.com/wuc567/papers/blob/master/05%20%202017%20scis.pdf))  [(Source codes)](https://github.com/wuc567/Pattern-Matching/tree/master/NETLAP-Best)
+[1] Youxi Wu, Cong Shen, He Jiang, Xindong Wu. Strict pattern matching under non-overlapping condition. Science China Information Sciences, 2017, 60 (1):012101.    Read Online ([pdf](https://github.com/wuc567/papers/blob/master/05%20%202017%20scis.pdf))  [(Source codes)](https://github.com/wuc567/Pattern-Matching/tree/master/NETLAP-Best)
 
-[2] 武优西，周坤，刘靖宇，江贺，吴信东. 周期性一般间隙约束的序列模式挖掘.  计算机学报. 2017, 40(6): 1338-1352. (PDF) (Source codes)
+[2] 武优西，周坤，刘靖宇，江贺，吴信东. 周期性一般间隙约束的序列模式挖掘.  计算机学报, 2017, 40(6): 1338-1352. (PDF) (Source codes)
 
 [3] Youxi Wu, Dong Liu, He Jiang.  Length-changeable incremental extreme learning machine. Journal of Computer Science and Technology.  2017, 32(3): 630–643. [中英文摘要] (PDF)  (source codes)
 
