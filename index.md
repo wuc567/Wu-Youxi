@@ -16,7 +16,7 @@
 
 [2]	基于网树的无重叠多维对比序列模式挖掘及其在序列分类中的应用（起止时间：2020.01-2023.12，项目编号：61976240）
 
-[3]	基于间隙约束的序列模式挖掘关键技术及其在特征提取中的应用（项目编号：61673159）
+[3]	基于间隙约束的序列模式挖掘关键技术及其在特征提取中的应用（起止时间：2017.01-2017.12，项目编号：61673159）
 
 此外，先后主持河北省自然科学基金项目、河北省科学技术研究与发展指导计划项目、河北省教育厅重点项目等项目，主要研究兴趣为数据挖掘、智能计算（模式匹配或串匹配）和机器学习。第一作者或通信作者或合作作者在SCI一区、二区或知名SCI期刊以及一级学报发表论文及ICTAI等国际会议发表论文30余篇，这些期刊包括：** IEEE Transactions on Knowledge and Data Engineering、IEEE Transactions on Cybernetics、ACM Transactions on Knowledge Discovery in Data、ACM Transactions on Management Information Systems、Science China Information Sciences、Journal of Computer Science and Technology、Information Sciences**、Knowledge-Based Systems、Expert Systems With Applications、Neurocomputing、Applied Intelligence、Journal of Information Sciences、计算机学报、软件学报、通信学报；普通高等教育“十一五”国家级规划教材主编1本。
 
