@@ -11,13 +11,6 @@
 联系方式： wuc567 at 163 dot com
 
 **先后主持国家自然基金面上项目3项。**
-
-[1]	面向序列大数据的三支可重复项集序列模式挖掘研究（起止时间：2024.01-2027.12，项目编号：62372154）
-
-[2]	基于网树的无重叠多维对比序列模式挖掘及其在序列分类中的应用（起止时间：2020.01-2023.12，项目编号：61976240）
-
-[3]	基于间隙约束的序列模式挖掘关键技术及其在特征提取中的应用（起止时间：2017.01-2017.12，项目编号：61673159）
-
 **此外，先后主持河北省自然科学基金项目、河北省科学技术研究与发展指导计划项目、河北省教育厅重点项目等项目，主要研究兴趣为数据挖掘、智能计算（模式匹配或串匹配）和机器学习。在国内外知名期刊发表论文30余篇，这些期刊包括：** IEEE Transactions on Knowledge and Data Engineering、IEEE Transactions on Cybernetics、ACM Transactions on Knowledge Discovery in Data、ACM Transactions on Management Information Systems、Science China Information Sciences、Journal of Computer Science and Technology、Information Sciences**、Knowledge-Based Systems、Expert Systems With Applications、Neurocomputing、Applied Intelligence、Journal of Information Sciences、计算机学报、软件学报、通信学报；普通高等教育“十一五”国家级规划教材主编1本。
 
 先后获得天津市科技进步三等奖（2008年）；2022年获得河北省科技进步二等奖；2018年获得天津市科技进步二等奖；此外，获得河北省科技进步三等奖（1999年和2002年）和河北省教学成果二等奖（2000年）；河北省优秀硕士论文指导教师（2014年、2015年、2018年、2022年 ）。指导多名硕士研究生，**其中4名硕士研究生获评河北省优秀硕士学位论文:**
