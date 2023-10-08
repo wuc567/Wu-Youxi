@@ -41,7 +41,7 @@
 
 [3] Youxi Wu, Shuhui Cheng, Yan Li, Rongjie Lv, Fan Min. STWD-SFNN: Sequential three-way decisions with a single hidden layer feedforward neural network. Information Sciences, 2023, 632: 299-323. 
 
-[4] Youxi Wu, Xiaoqian Zhao, Yan Li, Lei Guo, Xingquan Zhu, Philippe Fournier-Viger, Xindong Wu.  OPR-Miner: Order-preserving rule mining for time series. IEEE Transactions on Knowledge and Data Engineering,  10.1109/TKDE.2022.3224963
+[4] Youxi Wu, Xiaoqian Zhao, Yan Li, Lei Guo, Xingquan Zhu, Philippe Fournier-Viger, Xindong Wu.  OPR-Miner: Order-preserving rule mining for time series. IEEE Transactions on Knowledge and Data Engineering, 2023,  35(11): 11722-11735. 10.1109/TKDE.2022.3224963
 
 [5] Yan Li, Chang Zhang, Jie Li, Wei Song, Zhenlian Qi, Youxi Wu, Xindong Wu.  MCoR-Miner: Maximal co-occurrence nonoverlapping sequential rule mining. IEEE Transactions on Knowledge and Data Engineering, 2023, 35(9): 9531-9546.  doi: 10.1109/TKDE.2023.3241213 
 
