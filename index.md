@@ -35,19 +35,19 @@
 
 ###2023年
 
-[1] Youxi Wu, Qian Hu, Yan Li, Lei Guo, Xingquan Zhu, Xindong Wu. OPP-Miner: Order-preserving sequential pattern mining for time series. IEEE Transactions on Cybernetics, 2023, 53 (5): 3288-3300.  DOI: 10.1109/TCYB.2022.3169327      
+[1] Youxi Wu, Qian Hu, Yan Li, Lei Guo, Xingquan Zhu, Xindong Wu. OPP-Miner: Order-preserving sequential pattern mining for time series. IEEE Transactions on Cybernetics, 2023, 53 (5): 3288-3300.  DOI: 10.1109/TCYB.2022.3169327     **C++ codes:**   https://github.com/wuc567/Pattern-Mining/tree/master/OPP-Miner
 
-[2] Youxi Wu, Mingjie Chen, Yan Li, Jing Liu, Zhao Li, Jinyan Li, Xindong Wu. ONP-Miner: One-off negative sequential pattern mining. ACM Transactions on Knowledge Discovery in Data, 2023, 17(3): 37. doi: 10.1145/3549940
+[2] Youxi Wu, Mingjie Chen, Yan Li, Jing Liu, Zhao Li, Jinyan Li, Xindong Wu. ONP-Miner: One-off negative sequential pattern mining. ACM Transactions on Knowledge Discovery in Data, 2023, 17(3): 37. doi: 10.1145/3549940    **C++ codes:**  https://github.com/wuc567/Pattern-Mining/tree/master/ONP-Miner
 
 [3] Youxi Wu, Shuhui Cheng, Yan Li, Rongjie Lv, Fan Min. STWD-SFNN: Sequential three-way decisions with a single hidden layer feedforward neural network. Information Sciences, 2023, 632: 299-323. 
 
-[4] Youxi Wu, Xiaoqian Zhao, Yan Li, Lei Guo, Xingquan Zhu, Philippe Fournier-Viger, Xindong Wu.  OPR-Miner: Order-preserving rule mining for time series. IEEE Transactions on Knowledge and Data Engineering, 2023,  35(11): 11722-11735. 10.1109/TKDE.2022.3224963
+[4] Youxi Wu, Xiaoqian Zhao, Yan Li, Lei Guo, Xingquan Zhu, Philippe Fournier-Viger, Xindong Wu.  OPR-Miner: Order-preserving rule mining for time series. IEEE Transactions on Knowledge and Data Engineering, 2023,  35(11): 11722-11735. 10.1109/TKDE.2022.3224963   **C++ codes:**  https://github.com/wuc567/Pattern-Mining/tree/master/OPR-Miner
 
-[5] Yan Li, Chang Zhang, Jie Li, Wei Song, Zhenlian Qi, Youxi Wu, Xindong Wu.  MCoR-Miner: Maximal co-occurrence nonoverlapping sequential rule mining. IEEE Transactions on Knowledge and Data Engineering, 2023, 35(9): 9531-9546.             DOI: 10.1109/TKDE.2023.3241213 
+[5] Yan Li, Chang Zhang, Jie Li, Wei Song, Zhenlian Qi, Youxi Wu, Xindong Wu.  MCoR-Miner: Maximal co-occurrence nonoverlapping sequential rule mining. IEEE Transactions on Knowledge and Data Engineering, 2023, 35(9): 9531-9546.             DOI: 10.1109/TKDE.2023.3241213  **C++ codes:**     https://github.com/wuc567/Pattern-Mining/tree/master/MCoR-Miner
 
-[6] Youxi Wu, Yufei Meng, Yan Li, Lei Guo, Xingquan Zhu, Philippe Fournier-Viger, Xindong Wu. COPP-Miner: Top-k contrast order-preserving pattern mining for time series classification. IEEE Transactions on Knowledge and Data Engineering, 2023,      DOI: 10.1109/TKDE.2023.3321749
+[6] Youxi Wu, Yufei Meng, Yan Li, Lei Guo, Xingquan Zhu, Philippe Fournier-Viger, Xindong Wu. COPP-Miner: Top-k contrast order-preserving pattern mining for time series classification. IEEE Transactions on Knowledge and Data Engineering, 2023,      DOI: 10.1109/TKDE.2023.3321749  **Java codes:** https://github.com/wuc567/Pattern-Mining/tree/master/COPP-Miner
 
-[7] Meng Geng, Youxi Wu, Yan Li, Jing Liu, Philippe Fournier-Viger, Xingquan Zhu, Xindong Wu. RNP-Miner: Repetitive nonoverlapping sequential pattern mining. IEEE Transactions on Knowledge and Data Engineering, 2023,  DOI: 10.1109/TKDE.2023.3334300
+[7] Meng Geng, Youxi Wu, Yan Li, Jing Liu, Philippe Fournier-Viger, Xingquan Zhu, Xindong Wu. RNP-Miner: Repetitive nonoverlapping sequential pattern mining. IEEE Transactions on Knowledge and Data Engineering, 2023,  DOI: 10.1109/TKDE.2023.3334300  **Python codes:**     https://github.com/wuc567/Pattern-Mining/tree/master/RNP-Miner
 
 ###2022 年
 
