@@ -51,7 +51,7 @@
 
 ###2022 年
 
-[1]Youxi Wu, Lanfang Luo,  Yan Li, Lei Guo, Philippe Fournier-Viger, Xingquan Zhu, Xindong Wu. NTP-Miner: Nonoverlapping three-way sequential pattern mining. ACM Transactions on Knowledge Discovery from Data,  2022, 16(3): 51.  **PDF, C++ codes:** https://github.com/wuc567/Pattern-Mining/tree/master/NTP-Miner
+[1]Youxi Wu, Lanfang Luo,  Yan Li, Lei Guo, Philippe Fournier-Viger, Xingquan Zhu, Xindong Wu. NTP-Miner: Nonoverlapping three-way sequential pattern mining. ACM Transactions on Knowledge Discovery from Data,  2022, 16(3): 51.   doi.org/10.1145/3480245  **PDF, C++ codes:** https://github.com/wuc567/Pattern-Mining/tree/master/NTP-Miner
 
 [2]Youxi Wu, Yuehua Wang, Yan Li, Xingquan Zhu, Xindong Wu.  Top-k self-adaptive contrast sequential pattern mining. IEEE Transactions on Cybernetics, 2022, 52(11): 11819-11833.   DOI: 10.1109/TCYB.2021.3082114
 
