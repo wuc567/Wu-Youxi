@@ -33,6 +33,13 @@
 
 ### 论文
 
+###2024年
+[1] Youxi Wu, Yufei Meng, Yan Li, Lei Guo, Xingquan Zhu, Philippe Fournier-Viger, Xindong Wu. COPP-Miner: Top-k contrast order-preserving pattern mining for time series classification. IEEE Transactions on Knowledge and Data Engineering, 2023,      DOI: 10.1109/TKDE.2023.3321749  **Java codes:** https://github.com/wuc567/Pattern-Mining/tree/master/COPP-Miner
+
+[2] Meng Geng, Youxi Wu, Yan Li, Jing Liu, Philippe Fournier-Viger, Xingquan Zhu, Xindong Wu. RNP-Miner: Repetitive nonoverlapping sequential pattern mining. IEEE Transactions on Knowledge and Data Engineering, 2023,  DOI: 10.1109/TKDE.2023.3334300  **Python codes:**     https://github.com/wuc567/Pattern-Mining/tree/master/RNP-Miner
+
+
+
 ###2023年
 
 [1] Youxi Wu, Qian Hu, Yan Li, Lei Guo, Xingquan Zhu, Xindong Wu. OPP-Miner: Order-preserving sequential pattern mining for time series. IEEE Transactions on Cybernetics, 2023, 53 (5): 3288-3300.  DOI: 10.1109/TCYB.2022.3169327     **C++ codes:**   https://github.com/wuc567/Pattern-Mining/tree/master/OPP-Miner
@@ -45,9 +52,7 @@
 
 [5] Yan Li, Chang Zhang, Jie Li, Wei Song, Zhenlian Qi, Youxi Wu, Xindong Wu.  MCoR-Miner: Maximal co-occurrence nonoverlapping sequential rule mining. IEEE Transactions on Knowledge and Data Engineering, 2023, 35(9): 9531-9546.             DOI: 10.1109/TKDE.2023.3241213  **C++ codes:**     https://github.com/wuc567/Pattern-Mining/tree/master/MCoR-Miner
 
-[6] Youxi Wu, Yufei Meng, Yan Li, Lei Guo, Xingquan Zhu, Philippe Fournier-Viger, Xindong Wu. COPP-Miner: Top-k contrast order-preserving pattern mining for time series classification. IEEE Transactions on Knowledge and Data Engineering, 2023,      DOI: 10.1109/TKDE.2023.3321749  **Java codes:** https://github.com/wuc567/Pattern-Mining/tree/master/COPP-Miner
 
-[7] Meng Geng, Youxi Wu, Yan Li, Jing Liu, Philippe Fournier-Viger, Xingquan Zhu, Xindong Wu. RNP-Miner: Repetitive nonoverlapping sequential pattern mining. IEEE Transactions on Knowledge and Data Engineering, 2023,  DOI: 10.1109/TKDE.2023.3334300  **Python codes:**     https://github.com/wuc567/Pattern-Mining/tree/master/RNP-Miner
 
 ###2022 年
 
