@@ -34,9 +34,9 @@
 ### 论文
 
 ###2024年
-[1] Youxi Wu, Yufei Meng, Yan Li, Lei Guo, Xingquan Zhu, Philippe Fournier-Viger, Xindong Wu. COPP-Miner: Top-k contrast order-preserving pattern mining for time series classification. IEEE Transactions on Knowledge and Data Engineering, 2023,      DOI: 10.1109/TKDE.2023.3321749  **Java codes:** https://github.com/wuc567/Pattern-Mining/tree/master/COPP-Miner
+[1] Youxi Wu, Yufei Meng, Yan Li, Lei Guo, Xingquan Zhu, Philippe Fournier-Viger, Xindong Wu. COPP-Miner: Top-k contrast order-preserving pattern mining for time series classification. IEEE Transactions on Knowledge and Data Engineering, 2023,      DOI: 10.1109/TKDE.2023.3321749  **Java codes:**    https://github.com/wuc567/Pattern-Mining/tree/master/RNP-Miner
 
-[2] Meng Geng, Youxi Wu, Yan Li, Jing Liu, Philippe Fournier-Viger, Xingquan Zhu, Xindong Wu. RNP-Miner: Repetitive nonoverlapping sequential pattern mining. IEEE Transactions on Knowledge and Data Engineering, 2023,  DOI: 10.1109/TKDE.2023.3334300  **Python codes:**     https://github.com/wuc567/Pattern-Mining/tree/master/RNP-Miner
+[2] Meng Geng, Youxi Wu, Yan Li, Jing Liu, Philippe Fournier-Viger, Xingquan Zhu, Xindong Wu. RNP-Miner: Repetitive nonoverlapping sequential pattern mining. IEEE Transactions on Knowledge and Data Engineering, 2023,  DOI: 10.1109/TKDE.2023.3334300  **Python codes:**  https://github.com/wuc567/Pattern-Mining/tree/master/COPP-Miner
 
 
 
