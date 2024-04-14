@@ -38,7 +38,7 @@
 
 [2] Meng Geng, Youxi Wu, Yan Li, Jing Liu, Philippe Fournier-Viger, Xingquan Zhu, Xindong Wu. RNP-Miner: Repetitive nonoverlapping sequential pattern mining. IEEE Transactions on Knowledge and Data Engineering, 2023,  DOI: 10.1109/TKDE.2023.3334300  **Python codes:**   https://github.com/wuc567/Pattern-Mining/tree/master/RNP-Miner
 
-
+[3] Youxi Wu, Zhen Wang, Yan Li, Yingchun Guo, He Jiang, Xingquan Zhu, Xindong Wu. COP-Miner: Co-occurrence order-preserving pattern mining with keypoint alignment for time series prediction. ACM Transactions on Management Information Systems, 2024,  DOI: 10.1145/3658450.   codes: https://github.com/wuc567/Pattern-Mining/tree/master/COP-Miner
 
 ###2023年
 
