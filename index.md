@@ -40,6 +40,8 @@
 
 [3] Youxi Wu, Zhen Wang, Yan Li, Yingchun Guo, He Jiang, Xingquan Zhu, Xindong Wu. COP-Miner: Co-occurrence order-preserving pattern mining with keypoint alignment for time series prediction. ACM Transactions on Management Information Systems, 2024,  DOI: 10.1145/3658450.   codes: https://github.com/wuc567/Pattern-Mining/tree/master/COP-Miner
 
+[4] Wei Song, Zhen Sun, Philippe Fournier-Viger, Youxi Wu. MRI-CE: Minimal rare itemset discovery using the cross-entropy method. Information Sciences,  2024, 665, 120392
+
 ###2023年
 
 [1] Youxi Wu, Qian Hu, Yan Li, Lei Guo, Xingquan Zhu, Xindong Wu. OPP-Miner: Order-preserving sequential pattern mining for time series. IEEE Transactions on Cybernetics, 2023, 53 (5): 3288-3300.  DOI: 10.1109/TCYB.2022.3169327     **C++ codes:**   https://github.com/wuc567/Pattern-Mining/tree/master/OPP-Miner
