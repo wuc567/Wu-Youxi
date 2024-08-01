@@ -36,13 +36,15 @@ International Journal of Intelligent Systems期刊AE。
 ### 论文
 
 ###2024年
-[1] Youxi Wu, Yufei Meng, Yan Li, Lei Guo, Xingquan Zhu, Philippe Fournier-Viger, Xindong Wu. COPP-Miner: Top-k contrast order-preserving pattern mining for time series classification. IEEE Transactions on Knowledge and Data Engineering, 2023,      DOI: 10.1109/TKDE.2023.3321749  **Java codes:**   https://github.com/wuc567/Pattern-Mining/tree/master/COPP-Miner 
+[1] Youxi Wu, Yufei Meng, Yan Li, Lei Guo, Xingquan Zhu, Philippe Fournier-Viger, Xindong Wu. COPP-Miner: Top-k contrast order-preserving pattern mining for time series classification. IEEE Transactions on Knowledge and Data Engineering, 36(6): 2372-2387 (2024)     DOI: 10.1109/TKDE.2023.3321749  **Java codes:**   https://github.com/wuc567/Pattern-Mining/tree/master/COPP-Miner 
 
 [2] Meng Geng, Youxi Wu, Yan Li, Jing Liu, Philippe Fournier-Viger, Xingquan Zhu, Xindong Wu. RNP-Miner: Repetitive nonoverlapping sequential pattern mining. IEEE Transactions on Knowledge and Data Engineering, 2023,  DOI: 10.1109/TKDE.2023.3334300  **Python codes:**   https://github.com/wuc567/Pattern-Mining/tree/master/RNP-Miner
 
 [3] Youxi Wu, Zhen Wang, Yan Li, Yingchun Guo, He Jiang, Xingquan Zhu, Xindong Wu. COP-Miner: Co-occurrence order-preserving pattern mining with keypoint alignment for time series prediction. ACM Transactions on Management Information Systems, 2024,  DOI: 10.1145/3658450.   codes: https://github.com/wuc567/Pattern-Mining/tree/master/COP-Miner
 
 [4] Wei Song, Zhen Sun, Philippe Fournier-Viger, Youxi Wu. MRI-CE: Minimal rare itemset discovery using the cross-entropy method. Information Sciences,  2024, 665, 120392
+
+[5] Yan Li, Chenyu Ma, Rong Gao, Youxi Wu*, Jinyan Li*, Wenjian Wang, Xindong Wu. OPF-Miner: Order-preserving pattern mining with forgetting mechanism for time series. IEEE Transactions on Knowledge and Data Engineering, DOI: 10.1109/TKDE.2024.3438274   **codes:**  https://github.com/wuc567/Pattern-Mining/tree/master/OPF-Miner
 
 ###2023年
 
@@ -54,7 +56,7 @@ International Journal of Intelligent Systems期刊AE。
 
 [4] Youxi Wu, Xiaoqian Zhao, Yan Li, Lei Guo, Xingquan Zhu, Philippe Fournier-Viger, Xindong Wu.  OPR-Miner: Order-preserving rule mining for time series. IEEE Transactions on Knowledge and Data Engineering, 2023,  35(11): 11722-11735. 10.1109/TKDE.2022.3224963   **C++ codes:**  https://github.com/wuc567/Pattern-Mining/tree/master/OPR-Miner
 
-[5] Yan Li, Chang Zhang, Jie Li, Wei Song, Zhenlian Qi, Youxi Wu, Xindong Wu.  MCoR-Miner: Maximal co-occurrence nonoverlapping sequential rule mining. IEEE Transactions on Knowledge and Data Engineering, 2023, 35(9): 9531-9546.             DOI: 10.1109/TKDE.2023.3241213  **C++ codes:**     https://github.com/wuc567/Pattern-Mining/tree/master/MCoR-Miner
+[5] Yan Li, Chang Zhang, Jie Li, Wei Song, Zhenlian Qi, Youxi Wu*, Xindong Wu.  MCoR-Miner: Maximal co-occurrence nonoverlapping sequential rule mining. IEEE Transactions on Knowledge and Data Engineering, 2023, 35(9): 9531-9546.             DOI: 10.1109/TKDE.2023.3241213  **C++ codes:**     https://github.com/wuc567/Pattern-Mining/tree/master/MCoR-Miner
 
 
 
