@@ -45,12 +45,14 @@ International Journal of Intelligent Systems期刊AE。
 
 ### 论文
 ###2025年
+
 [1] Yan Li, Zhulin Wang, Jing Liu, Lei Guo, Philippe Fournier-Viger, Youxi Wu, and Xindong Wu. Mining repetitive negative sequential patterns with gap constraints, ACM Transactions on Knowledge Discovery from Data, 2025, DOI: 10.1145/3716390  **codes:**   https://github.com/wuc567/Pattern-Mining/tree/master/NSPG-Miner
 
 [2] Zhongping Zhang, Daoheng Liu, Jinwei Zhu, Youxi Wu. Unsupervised Outlier Detection with Reinforced Noise Discriminator.  ACM Transactions on Intelligent Systems and Technology. https://doi.org/10.1145/3706117
 
 
 ###2024年
+
 [1] Youxi Wu, Yufei Meng, Yan Li, Lei Guo, Xingquan Zhu, Philippe Fournier-Viger, Xindong Wu. COPP-Miner: Top-k contrast order-preserving pattern mining for time series classification. IEEE Transactions on Knowledge and Data Engineering, 36(6): 2372-2387 (2024)     DOI: 10.1109/TKDE.2023.3321749  **Java codes:**   https://github.com/wuc567/Pattern-Mining/tree/master/COPP-Miner 
 
 [2] Meng Geng, Youxi Wu, Yan Li, Jing Liu, Philippe Fournier-Viger, Xingquan Zhu, Xindong Wu. RNP-Miner: Repetitive nonoverlapping sequential pattern mining. IEEE Transactions on Knowledge and Data Engineering, 2024, 36(9): 4874 - 4889,  DOI: 10.1109/TKDE.2023.3334300  **Python codes:**   https://github.com/wuc567/Pattern-Mining/tree/master/RNP-Miner
