@@ -44,12 +44,27 @@ International Journal of Intelligent Systems期刊AE。
 * 国际期刊IJIS (CCF-C类期刊) Associate Editor
 
 ### 论文
+###2026年
+
+[1] Zhihong Dong, Jing Liu, Youxi Wu. Mining one-off high average utility episodes for process event logs. Future Gener. Comput. Syst. 174: 107938 (2026)  **codes:**   
+
+
 ###2025年
 
-[1] Yan Li, Zhulin Wang, Jing Liu, Lei Guo, Philippe Fournier-Viger, Youxi Wu, and Xindong Wu. Mining repetitive negative sequential patterns with gap constraints, ACM Transactions on Knowledge Discovery from Data, 2025, DOI: 10.1145/3716390  **codes:**   https://github.com/wuc567/Pattern-Mining/tree/master/NSPG-Miner
+[1] Yan Li, Zhulin Wang, Jing Liu, Lei Guo, Philippe Fournier-Viger, Youxi Wu, and Xindong Wu. Mining repetitive negative sequential patterns with gap constraints, ACM Transactions on Knowledge Discovery from Data, 2025, 19(4): 1-29, DOI: 10.1145/3716390  **codes:**   https://github.com/wuc567/Pattern-Mining/tree/master/NSPG-Miner
 
-[2] Zhongping Zhang, Daoheng Liu, Jinwei Zhu, Youxi Wu. Unsupervised Outlier Detection with Reinforced Noise Discriminator.  ACM Transactions on Intelligent Systems and Technology. https://doi.org/10.1145/3706117
+[2] Zhongping Zhang, Daoheng Liu, Jinwei Zhu, Youxi Wu. Unsupervised Outlier Detection with Reinforced Noise Discriminator.  ACM Transactions on Intelligent Systems and Technology. 2025, 16(2): 29:1-29:26 https://doi.org/10.1145/3706117
 
+[3] Youxi Wu, Siqi Lou, Yan Li, Lei Guo, Philippe Fournier-Viger, Xindong Wu. OUTO-Miner: Detecting outlying occurrences in maximal frequent order-preserving patterns in time series. Inf. Sci. 720: 122497 (2025)
+
+[4] Tiantian Xu, Xingyu Wang, Tao Lu, Youxi Wu. Skyline quantity-utility sequential pattern mining: An efficient and effective approach. Knowl. Based Syst. 328: 114185 (2025)
+
+[5] Yazhou Zhang, Mengyao Wang, Youxi Wu, Prayag Tiwari, Qiuchi Li, Benyou Wang, Jing Qin. DialogueLLM: Context and emotion knowledge-tuned large language models for emotion recognition in conversations. Neural Networks 192: 107901 (2025)
+
+[6] Youxi Wu, Shuang Tian, Yan Li, Jing Liu, Jinyan Li, Wenjian Wang, and Xindong WU. OIP-Miner: one-off incremental sequential pattern mining with forgetting factor. Science China Information Sciences. 2025,  68(10): 209101.
+
+[7] Youxi Wu, Zhihong Dong, Jing Liu, Yan Li, Cong Liu, Lijie Wen, and Xindong Wu. OER-Miner: One-off episode rule mining for process event logs. IEEE Transactions on Emerging Topics in Computing. 2025, DOI: 10.1109/TETC.2025.3607892
+ 
 
 ###2024年
 
