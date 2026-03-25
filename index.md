@@ -46,7 +46,10 @@ International Journal of Intelligent Systems期刊AE。
 ### 论文
 ###2026年
 
-[1] Zhihong Dong, Jing Liu, Youxi Wu. Mining one-off high average utility episodes for process event logs. Future Gener. Comput. Syst. 174: 107938 (2026)  **codes:**   
+[1] Zhihong Dong, Jing Liu, Youxi Wu. Mining one-off high average utility episodes for process event logs. Future Gener. Comput. Syst. 174: 107938 (2026)  **codes:** 
+
+[2] Yan Li, Hongxi Yang, Meng Geng, Yajing Zhou, Jie Li, Youxi Wu, Xindong Wu. OSP-Miner: Mining one-off weak-gap strong sequential patterns. Information Sciences. 730: 122871 (2026)
+
 
 
 ###2025年
@@ -63,8 +66,9 @@ International Journal of Intelligent Systems期刊AE。
 
 [6] Youxi Wu, Shuang Tian, Yan Li, Jing Liu, Jinyan Li, Wenjian Wang, and Xindong WU. OIP-Miner: one-off incremental sequential pattern mining with forgetting factor. Science China Information Sciences. 2025,  68(10): 209101.
 
-[7] Youxi Wu, Zhihong Dong, Jing Liu, Yan Li, Cong Liu, Lijie Wen, and Xindong Wu. OER-Miner: One-off episode rule mining for process event logs. IEEE Transactions on Emerging Topics in Computing. 2025, DOI: 10.1109/TETC.2025.3607892
- 
+[7] Youxi Wu, Zhihong Dong, Jing Liu, Yan Li, Cong Liu, Lijie Wen, and Xindong Wu. OER-Miner: One-off episode rule mining for process event logs. IEEE Transactions on Emerging Topics in Computing. 2025, 13(4): 1497-1509 (2025) DOI: 10.1109/TETC.2025.3607892
+
+[8] Yan Li, Xin Gao, Jie Li, Rong Gao, Philippe Fournier-Viger, Youxi Wu. CoTP-Miner: Co-occurrence three-way sequential pattern mining. Knowl. Based Syst. 332: 114803 (2025)
 
 ###2024年
 
