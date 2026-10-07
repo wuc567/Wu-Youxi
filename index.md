@@ -60,7 +60,13 @@ International Journal of Intelligent Systems期刊AE。
 
 [7] Youxi Wu, Yaqi Liu, Yan Li, Jing Liu, Cong Shen, Yazhou Zhang, Xindong Wu. OPM-Miner: One-Off Sequential Pattern Mining for Multivariate Time Series Analysis, IEEE Transactions on Emerging Topics in Computational Intelligence, 10(5): 3519 - 3530, 2026
 
-[8]
+[8] Guangzhao Chai, Youxi Wu, Jing Liu. CDAF: A Contrastive Distribution Alignment Framework for Generative Augmentation in Imbalanced IIoT Intrusion Detection, IEEE Internet of Things Journal, 13(8): 17774-17789 (2026)
+
+[9] Meng Geng, Youxi Wu, Yan Li, Jing Liu, Lei Guo, Xingquan Zhu, Xindong Wu. Mining high average utility nonoverlapping patterns from sequential database, ACM Transactions on Intelligent Systems and Technology 17 (1), 1-24, 2026
+
+[10] X Liu, G Chen, F Wu, W Zuo, Y Wu. OPHEP-Miner: One-phase high-efficiency pattern mining utilizing tree structures, Engineering Applications of Artificial Intelligence 164, 113288, 2026
+
+
 
 
 ###2025年
