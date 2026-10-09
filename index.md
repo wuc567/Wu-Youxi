@@ -54,7 +54,7 @@ International Journal of Intelligent Systems期刊AE。
 
 [4] Youxi Wu, Yunda Qiao, Jing Liu, Yan Li, Cong Liu, Jianguo Wei, Wenjian Wang. FNP-Miner: Fuzzy three-way nonoverlapping sequential pattern mining, IEEE Transactions on Fuzzy Systems, 2026
 
-[5] Yan Li, Mengyao He, Jianguo Wei, Youxi Wu. CoNR-Miner: Self-adaptive Co-occurrence nonoverlapping sequential rule mining. IEEE Transactions on Knowledge and Data Engineering, 38(9): 5721-5735 (2026)
+[5] Yan Li, Mengyao He, Jianguo Wei, Youxi Wu. CoNR-Miner: Self-adaptive co-occurrence nonoverlapping sequential rule mining. IEEE Transactions on Knowledge and Data Engineering, 38(9): 5721-5735 (2026)
 
 [6] Yajie Zhang, Youxi Wu, Yan Li. SOPP-Miner: Stable Distribution Order-Preserving Pattern Mining for Time Series, IEEE Transactions on Knowledge and Data Engineering, 38(8): 5406-5419 (2026)
 
