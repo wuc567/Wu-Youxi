@@ -46,21 +46,21 @@ International Journal of Intelligent Systems期刊AE。
 ### 论文
 ###2026年
 
-[1] Zhihong Dong, Jing Liu, Youxi Wu. Mining one-off high average utility episodes for process event logs. Future Gener. Comput. Syst. 174: 107938 (2026)  **codes:** 
+[1] Zhihong Dong, Jing Liu, Youxi Wu. Mining one-off high average utility episodes for process event logs, Future Gener. Comput. Syst. 174: 107938 (2026)  **codes:** 
 
-[2] Yan Li, Hongxi Yang, Meng Geng, Yajing Zhou, Jie Li, Youxi Wu, Xindong Wu. OSP-Miner: Mining one-off weak-gap strong sequential patterns. Information Sciences. 730: 122871 (2026)
+[2] Yan Li, Hongxi Yang, Meng Geng, Yajing Zhou, Jie Li, Youxi Wu, Xindong Wu. OSP-Miner: Mining one-off weak-gap strong sequential patterns, Information Sciences. 730: 122871 (2026)
 
-[3] Youxi Wu, Yunjiao Zhang, Hongpu Liu, Yan Li, Rong Gao, Xindong Wu. OPPM-Miner: Order-Preserving Pattern Mining for Multivariate Time Series, IEEE Transactions on Emerging Topics in Computing, 2026
+[3] Youxi Wu, Yunjiao Zhang, Hongpu Liu, Yan Li, Rong Gao, Xindong Wu. OPPM-Miner: Order-preserving pattern mining for multivariate time series, IEEE Transactions on Emerging Topics in Computing, 2026
 
 [4] Youxi Wu, Yunda Qiao, Jing Liu, Yan Li, Cong Liu, Jianguo Wei, Wenjian Wang. FNP-Miner: Fuzzy three-way nonoverlapping sequential pattern mining, IEEE Transactions on Fuzzy Systems, 2026
 
-[5] Yan Li, Mengyao He, Jianguo Wei, Youxi Wu. CoNR-Miner: Self-Adaptive Co-Occurrence Nonoverlapping Sequential Rule Mining. IEEE Transactions on Knowledge and Data Engineering, 38(9): 5721-5735 (2026)
+[5] Yan Li, Mengyao He, Jianguo Wei, Youxi Wu. CoNR-Miner: Self-adaptive Co-occurrence nonoverlapping sequential rule mining. IEEE Transactions on Knowledge and Data Engineering, 38(9): 5721-5735 (2026)
 
 [6] Yajie Zhang, Youxi Wu, Yan Li. SOPP-Miner: Stable Distribution Order-Preserving Pattern Mining for Time Series, IEEE Transactions on Knowledge and Data Engineering, 38(8): 5406-5419 (2026)
 
-[7] Youxi Wu, Yaqi Liu, Yan Li, Jing Liu, Cong Shen, Yazhou Zhang, Xindong Wu. OPM-Miner: One-Off Sequential Pattern Mining for Multivariate Time Series Analysis, IEEE Transactions on Emerging Topics in Computational Intelligence, 10(5): 3519 - 3530, 2026
+[7] Youxi Wu, Yaqi Liu, Yan Li, Jing Liu, Cong Shen, Yazhou Zhang, Xindong Wu. OPM-Miner: One-off sequential pattern mining for multivariate time series analysis, IEEE Transactions on Emerging Topics in Computational Intelligence, 10(5): 3519 - 3530, 2026
 
-[8] Guangzhao Chai, Youxi Wu, Jing Liu. CDAF: A Contrastive Distribution Alignment Framework for Generative Augmentation in Imbalanced IIoT Intrusion Detection, IEEE Internet of Things Journal, 13(8): 17774-17789 (2026)
+[8] Guangzhao Chai, Youxi Wu, Jing Liu. CDAF: A contrastive distribution alignment framework for generative augmentation in imbalanced IIoT intrusion detection, IEEE Internet of Things Journal, 13(8): 17774-17789 (2026)
 
 [9] Meng Geng, Youxi Wu, Yan Li, Jing Liu, Lei Guo, Xingquan Zhu, Xindong Wu. Mining high average utility nonoverlapping patterns from sequential database, ACM Transactions on Intelligent Systems and Technology 17 (1), 1-24, 2026
 
