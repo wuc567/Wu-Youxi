@@ -97,7 +97,7 @@ International Journal of Intelligent Systems期刊AE。
 
 [4] Wei Song, Zhen Sun, Philippe Fournier-Viger, Youxi Wu. MRI-CE: Minimal rare itemset discovery using the cross-entropy method. Information Sciences,  2024, 665, 120392
 
-[5] Yan Li, Chenyu Ma, Rong Gao, Youxi Wu*, Jinyan Li*, Wenjian Wang, Xindong Wu. OPF-Miner: Order-preserving pattern mining with forgetting mechanism for time series. IEEE Transactions on Knowledge and Data Engineering, DOI: 10.1109/TKDE.2024.3438274   **codes:**  https://github.com/wuc567/Pattern-Mining/tree/master/OPF-Miner
+[5] Yan Li, Chenyu Ma, Rong Gao, Youxi Wu*, Jinyan Li*, Wenjian Wang, Xindong Wu. OPF-Miner: Order-preserving pattern mining with forgetting mechanism for time series. IEEE Transactions on Knowledge and Data Engineering, 36(12): 8981-8995 (2024) DOI: 10.1109/TKDE.2024.3438274   **codes:**  https://github.com/wuc567/Pattern-Mining/tree/master/OPF-Miner
 
 ###2023年
 
